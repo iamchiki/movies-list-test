@@ -1,4 +1,7 @@
 {
+  "movies":
+[
+    {
         "imageurl": [
             "https://m.media-amazon.com/images/M/MV5BNjIwYmU5Y2ItNzJkMy00M2JiLWE5MTgtZDIwMjAyODkyM2Y0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
         ],
@@ -753,3 +756,5 @@
         "synopsis": "Guns of Banaras is Indian (Hindi ) language action film. Directed by Shekhar Suri and jointly produced by Ashok Munshi and Shaina Nath Taldar under the banner of Dashaka Cinema Co, and is presented by Dashaka Films and AJ media.",
         "type": "movie"
     }
+]
+  }
