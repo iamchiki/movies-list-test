@@ -1,395 +1,53 @@
 {
-  "movies": [
+  "page": 1,
+  "results": [
     {
       "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BNjIwYmU5Y2ItNzJkMy00M2JiLWE5MTgtZDIwMjAyODkyM2Y0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama"],
-      "imdbid": "tt9637132",
-      "title": "Prithviraj",
-      "imdbrating": null,
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "Akshay Kumar in and as the fearless king Prithviraj Chauhan."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BM2Y5MWRkNjQtOGM3NS00NzBmLTlkYjAtOTgyOGNlNGEwNWZlXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Adventure"],
-      "imdbid": "tt8426926",
-      "title": "Shamshera",
-      "imdbrating": 7.4,
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "Set in the 1800s pre-Independence India, the film is an Indian adaptation of Howard Pyle's \"Merry Adventures of Robin Hood\"."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BYTcwMmM4MDgtMWVmOS00ZjBhLTg2M2EtOTRjZTAxZjhlMTRjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR108,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Sci-Fi", "Thriller"],
-      "imdbid": "tt7529298",
-      "title": "Attack",
-      "imdbrating": 7.1,
-      "released": 2022,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BNDQ2ZmFmZDgtMzM4OS00MzhlLTljOGEtNjU0ODY4NjY0NTkxXkEyXkFqcGdeQXVyNDA5NjQxNjQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Adventure"],
-      "imdbid": "tt6072150",
-      "title": "Combativo",
-      "imdbrating": null,
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "Special anti terrorist force Commando Ahmad Ali takes on a daring mission to eliminate Rustam Group the most powerful criminal nexus of ruthless mercenaries and terror mafias in South Asia."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BOWEyZTExMjctODlmMC00NzZlLWEzZjItMDAzMTM2YTViMWM3XkEyXkFqcGdeQXVyNjAyMjkzNzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Adventure", "Thriller"],
-      "imdbid": "tt5735304",
-      "title": "Lincoln Road",
-      "imdbrating": null,
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "After serving five years in the Peace Corps, Naomi returns home, only to find her family in danger."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BOTM5Nzc2NDItYTdlZS00YThkLTlhNGItZGJkZDYyZmQyNTllXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Crime", "Drama"],
-      "imdbid": "tt10698680",
-      "title": "K.G.F: Chapter 2",
-      "imdbrating": null,
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) Has a new overlord now. Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government..."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMmZjNTJmNjItMjliOS00ZjAxLWFjZWUtNjIwYmFlYTZhYmNiXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR57,0,182,268_AL_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BMjA3MzhjZTYtZWNmOC00NmVhLWE5OGItMTQyMTkwYmI5NGUzXkEyXkFqcGdeQXVyNTQ1ODM0OTQ@._V1_UY268_CR4,0,182,268_AL_.jpg"
       ],
       "genre": ["Action"],
-      "imdbid": "tt10687220",
-      "title": "Nikamma",
+      "imdbid": "tt9910302",
+      "title": "King Street: The Downfall",
       "imdbrating": null,
-      "released": 2022,
+      "released": 2020,
       "type": "movie",
-      "synopsis": ""
+      "synopsis": "After 5 years in prison Ramone King wants his streets back but things have changed since he ran the dope game."
     },
     {
       "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BOWMxYWRjOGYtZjM1NS00Nzg1LTk3YTItOGIyOWMxMzhjODI3XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY268_CR2,0,182,268_AL_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BZGU3ZTUwYTAtNzU2Ni00MDQ4LTljZGItNWQ4ZjhiNTJkYTZlXkEyXkFqcGdeQXVyNjY1MDczOTY@._V1_UY268_CR4,0,182,268_AL_.jpg"
       ],
-      "genre": ["Action"],
-      "imdbid": "tt10598156",
-      "title": "Dhaakad",
-      "imdbrating": 4.5,
-      "released": 2022,
+      "genre": ["Action", "Adventure"],
+      "imdbid": "tt9901162",
+      "title": "The Robinsons",
+      "imdbrating": null,
+      "released": 2020,
       "type": "movie",
-      "synopsis": "Kangana Ranaut is all set to make the Diwali of 2020 all the more 'Dhamakedaar' with her next film Dhaakad."
+      "synopsis": "when a couple of kids loss their parents from being murdered, they are turned over to a sweet loving and caring Forster family. the Robinson's never had a choice, however, they had only one..."
     },
     {
       "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BM2I2MTE5ZmMtN2FkMy00MTRjLTg1N2ItZDNiMmU3OTI5Mzk4XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BNTMyMmY0YWEtNTBkNC00NjAzLThjZjItZGFhMGYzMmU4NzE3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
       ],
       "genre": ["Action", "Comedy", "Crime"],
-      "imdbid": "tt10699086",
-      "title": "Bachchan Pandey",
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "Remake of the 2014 film Veeram in which a kind-hearted villager takes down the enemies of his fiancee's father, to safeguard their family."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BYjk5YTUyN2QtZjhkOS00ZjllLTg3ZDktNzBiNmM2YWVhNDA4XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UY268_CR2,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Romance"],
-      "imdbid": "tt11873440",
-      "title": "Heropanti 2",
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "Remake of 2012 Korean action movie Hoi-sa-won (2012)"
-    },
-    {
-      "imageurl": [],
-      "genre": ["Action", "Thriller"],
-      "imdbid": "tt11947158",
-      "title": "Ek Villain Returns",
-      "released": 2022,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMGQxYmZiYzMtNWU5Yi00Njk1LTg1ZjktYmMxY2FlNTY2OWFiXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR16,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Adventure", "Fantasy"],
-      "imdbid": "tt6277462",
-      "title": "Brahmastra",
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "First part of superhero trilogy."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BZWUxNTZmMmQtMWE1NC00MTBhLWFlNjktMGJiNTY0ZTg5NzRmXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama"],
-      "imdbid": "tt8178634",
-      "title": "RRR",
-      "released": 2022,
-      "type": "movie",
-      "synopsis": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
-      "imdbrating": 8.9
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMWRjZTM2NzItMjY5OC00NWEyLTg3NGItYjgwNDIwODNlMzJkXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR43,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Comedy", "Crime"],
-      "imdbid": "tt8907974",
-      "title": "Looop Lapeta",
-      "released": 2022,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BZjU3OWZlYmItMTM0Yy00ZjlmLTg0YTUtMGUzY2EyZGVjNjMyXkEyXkFqcGdeQXVyNzQ3NDU1ODQ@._V1_UY268_CR43,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "Fantasy"],
-      "imdbid": "tt7822758",
-      "title": "Kaadan",
-      "imdbrating": 8,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Based on real life events of conservation of elephants ."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMjRlY2NlNDUtZWQ3Yi00MTA0LTliMDctNjhmNTg2Mjc2YThjXkEyXkFqcGdeQXVyNDQwMTY3ODc@._V1_UY268_CR43,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "Thriller"],
-      "imdbid": "tt3100046",
-      "title": "Squad",
-      "imdbrating": 5.4,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "In the course of an action-packed battle royal of elite military forces, a small child forms an emotional bond with the reluctant guardian sent to protect her."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BOTQ3MTNmZjUtOGMyNC00YmIzLTkwYmMtOTNhMWRlNmQ1NGUzXkEyXkFqcGdeQXVyOTEyNTI2NTA@._V1_UX182_CR0,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Comedy", "Drama"],
-      "imdbid": "tt12293692",
-      "title": "Secret Pocketmaar",
-      "imdbrating": null,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Secret Pocketmaar is Crime based movie in hindi language Startcast - Ayush Kumar Upadhyay ,Rajpal yadav ,Deepak Verma,mushtak khan Ayush Kumar Upadhyay is as Secret Pocketmaar ( Ayush ) in ...\n                    See full synopsis"
-    },
-    {
-      "imageurl": [],
-      "genre": ["Action", "Thriller"],
-      "imdbid": "tt11905536",
-      "title": "Untitled Vardhan Ketkar Film",
-      "imdbrating": null,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Remake of sleeper hit film Thadam"
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BY2NjZmQyNTYtZDA4NC00YTNhLThhMWMtMjA2MWJhNDA3NjI0XkEyXkFqcGdeQXVyMjE2OTM1MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Crime", "Drama"],
-      "imdbid": "tt11364772",
-      "title": "Kabza",
-      "imdbrating": null,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "In 1947 a Gandhi follower and a freedom fighter were brutally attacked. Due to unavoidable circumstances, the freedom fighter son gets trapped in the mafia world and the story revolves between 1947 to 1984."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BNjZhMjdmODctN2UxZi00MzAwLWE5MmYtYjVjMjc3NzYwYjhkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "Sport"],
-      "imdbid": "tt11045422",
-      "title": "Toofaan",
-      "imdbrating": 5.2,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [],
-      "genre": ["Action", "Drama", "Romance"],
-      "imdbid": "tt10761694",
-      "title": "Tadap",
-      "imdbrating": 6.1,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "A remake of the 2018 South Indian film RX 100"
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BYjYxOThkNzMtY2Y0ZS00YTU2LThkZTYtODY4ZmNhMjgwYTE3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Crime", "Drama"],
-      "imdbid": "tt10739666",
-      "title": "Satyameva Jayate 2",
-      "imdbrating": 4.8,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BZjBiNzUxMDgtN2RlOC00NWRlLTljODUtNWZhZjU5MDliMDNjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Crime"],
-      "imdbid": "tt10483386",
-      "title": "Mumbai Saga",
-      "imdbrating": 6,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Actors Jackie Shroff and Suniel Shetty have been roped in to star along side John Abraham and Emraan Hashmi in gangster drama Mumbai Saga."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BZGJjNTViMDgtZjMwZS00ZDNmLWE1NDItZDFlOTBlYzA3MDkwXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Biography", "Drama"],
-      "imdbid": "tt10295212",
-      "title": "Shershaah",
-      "imdbrating": 8.7,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Vikram Batra Biopic: Siddharth Malhotra to Star in 'Sher Shah' Captain in Karan Johar's Film."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMzRjOGQ2M2YtZjgzZi00NTcyLTkzMDMtZTZkOTFmZjIxYTdiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "History"],
-      "imdbid": "tt10062556",
-      "title": "Bhuj: The Pride of India",
-      "imdbrating": 4.9,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Bhuj the pride of India is a story about 300 gujrati women who helped the Indian Airforce during Bangladesh and Pakistan War"
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BZjNlZTExYTctOWE0NC00M2I2LTgwN2ItNDUyYTczNDBkY2JiXkEyXkFqcGdeQXVyMTA4OTUzMzg1._V1_UY268_CR110,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Crime", "Thriller"],
-      "imdbid": "tt10888594",
-      "title": "Radhe",
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "",
-      "imdbrating": 1.8
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMDgxYTFjMGMtMzZkNS00YTk3LWI5YWMtZDVlZDY0OTZmNzU2XkEyXkFqcGdeQXVyODAzOTMzNDA@._V1_UY268_CR109,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Crime", "Drama"],
-      "imdbid": "tt2599878",
-      "title": "Shooter",
-      "imdbrating": 6.5,
-      "released": 2021,
-      "synopsis": "It is a realistic film about poor people based in Mumbai who turn criminals.",
+      "imdbid": "tt9898858",
+      "title": "Coffee & Kareem",
+      "imdbrating": 5.1,
+      "released": 2020,
+      "synopsis": "Twelve-year-old Kareem Manning hires a criminal to scare his mom's new boyfriend -police officer James Coffee - but it backfires, forcing Coffee and Kareem to team up in order to save themselves from Detroit's most ruthless drug kingpin.",
       "type": "movie"
     },
     {
       "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMGY2ZWJkNWEtYTJmMi00Mzk2LWIyZTUtMTI3MTZhMTg5NWI2XkEyXkFqcGdeQXVyMzQ5MjE5Nzc@._V1_UY268_CR151,0,182,268_AL_.jpg"
+        "https://m.media-amazon.com/images/M/MV5BZTRlMTNmZDktYjY1MC00YjQwLWJiMWQtMzNlOTVkMzVhZjhlXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
       ],
-      "genre": ["Action", "Romance"],
-      "imdbid": "tt5798156",
-      "title": "Cholay",
-      "imdbrating": null,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Cholay is social movie featuring love story and prevailing domination in the society which shows that bad action leads to bad results. The film tries to mix different themes as many ..."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BM2NiNzVkOTMtZWQxYS00Njg1LTgwYTYtOWJlMWE5NzQzNmIzXkEyXkFqcGdeQXVyMjgzMzI0ODg@._V1_UY268_CR87,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Thriller"],
-      "imdbid": "tt4117088",
-      "title": "Switchh",
-      "imdbrating": 4.9,
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "SWITCHH as an action movie about friendship, love and betrayal, the plot revolves around three con artists who use their charm to dupe wealthy victims out of cash."
-    },
-    {
-      "imageurl": [],
-      "genre": ["Action"],
-      "imdbid": "tt11203296",
-      "title": "Khiladi 1080",
-      "released": 2021,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BZWQzZWI3NDctY2YyZS00MzNmLTkyZTYtZjcwMDQzOTJhMjRmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Thriller"],
-      "imdbid": "tt11260832",
-      "title": "Bellbottom",
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Get ready to go back to the 80's and hop onto a roller-coaster spy ride, #BELLBOTTOM. Releasing on 22nd January, 2021.",
-      "imdbrating": 6.2
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BNWViM2Q4NzgtYmYzZi00YzI0LWE3Y2QtNDQyZGIxYTRiYzk5XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR43,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Adventure", "Comedy"],
-      "imdbid": "tt3779396",
-      "title": "Go Goa Gone 2",
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "Sequel of the 2013 'zom-com' film Go Goa Gone."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BNzQ4MzQxOTctYjRiMS00MjlkLTlhYTktOWJiMDA3YTg0YWFiXkEyXkFqcGdeQXVyNzA5NjY5MzA@._V1_UY268_CR2,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "Thriller"],
-      "imdbid": "tt8066940",
-      "title": "Indian 2",
-      "released": 2021,
-      "type": "movie",
-      "synopsis": "A hero eliminates corruption from the system by killing the corrupt bureaucrats."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BN2E3MjM0YjgtNjQ1YS00MjJhLThlMTgtMGIxNDBiNGE0Mzk1XkEyXkFqcGdeQXVyODI1MTQ5ODY@._V1_UY268_CR6,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action"],
-      "imdbid": "tt9384472",
-      "title": "Black Market",
-      "released": 2021,
-      "type": "movie",
-      "synopsis": ""
+      "genre": ["Action", "Comedy"],
+      "imdbid": "tt9887580",
+      "title": "Bulletproof 2",
+      "imdbrating": 3.6,
+      "released": 2020,
+      "synopsis": "Set 25 years after, Jack is now working as a Special Agent with a mission to take down a powerful South African crime family. The officer begrudgingly goes undercover once again, this time taking the identity of Moses.",
+      "type": "movie"
     },
     {
       "imageurl": [
@@ -405,6 +63,232 @@
     },
     {
       "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNTlmNWQyYjAtYWY2Yi00NDJkLWE2NmMtMDM2NDY0YzBlYzU5XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt9820352",
+      "title": "Villain",
+      "imdbrating": 5.9,
+      "released": 2020,
+      "synopsis": "Eddie Franks is a former criminal who attempts to help his family by reconnecting with his daughter and clearing his brother's debt. Despite his efforts, he is drawn back into a criminal way of life, with devastating consequences.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYmIwYzI5MzgtNWE1Mi00MmM0LTlhZGUtYzdiMmI1MTljNzNjXkEyXkFqcGdeQXVyNjc2NjAxOTA@._V1_UY268_CR16,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "imdbid": "tt9635760",
+      "title": "Star Wars: Shadow of the Jedi",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A new threat has emerged since the fall of the Empire. In order to maintain peace, the new Jedi Order forms with Luke Skywalker at the helm. Jedi students, Kira and Sam must stop the rise ..."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjFlMGU5NGItOGEwNS00NjQxLWEyZDUtMjAxMThkODI2OTM1XkEyXkFqcGdeQXVyMDk0MTk4MA@@._V1_UY268_CR7,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "imdbid": "tt9624766",
+      "title": "Jiu Jitsu",
+      "imdbrating": 2.9,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A new Sci-Fi Martial Arts franchise from Dimitri Logothetis, Director/Producer of Kickboxer: Retaliation."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BN2VmYTE2Y2UtYzJiZC00YjdjLWE4NTYtNTAyNWM1MWMzZmIwXkEyXkFqcGdeQXVyMTE0NjQwOTAx._V1_UY268_CR12,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Sci-Fi"],
+      "imdbid": "tt9600568",
+      "title": "The Shell",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "In a dystopian future, the world is suffering from overpopulation. A group of radicals calling themselves the \"Enthusiasts\" are trying to prove the Myth to the world. The Myth is the world ..."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNzY3YTUwYTQtNjkwNy00OTAyLWE0OWEtYmE3MGIyOWZkODY1XkEyXkFqcGdeQXVyMjkyNzYwMTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "Animation"],
+      "imdbid": "tt9580138",
+      "title": "Mortal Kombat Legends: Scorpion's Revenge",
+      "imdbrating": 7.5,
+      "released": 2020,
+      "synopsis": "Hanzo Hasashi loses his clan, family, and his life during an attack by a rival ninja clan. He is given the chance to compete in an interdimensional tournament to save his loved ones.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOGY1MWYzYWYtOTA1Ny00YmQ3LTlhMjUtMGE4MTA2NmM1M2JhXkEyXkFqcGdeQXVyOTMzMTg4NzA@._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "Animation"],
+      "imdbid": "tt9529044",
+      "title": "BOB",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZmZjZjg0ZDAtZjk4OS00NmYyLWJlM2EtMjZjZDVjMjE0ZDJkXkEyXkFqcGdeQXVyOTY3OTYyNTM@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt9490122",
+      "title": "Perspectives",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": [],
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt9444348",
+      "title": "Aadat Diaries",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "when Aditya's wife Dia, is kidnapped. when Aditya approaches the he is shocked to finds out his ex Neha Singh will be handling his case. As Neha tries to dig in the case things get more complicated with murder, kidnapping business rivalry."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZDY0NDk5Y2YtN2FkNi00OTQ5LTg0YmMtY2QyOTQ3YWJkNWVhXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt9347750",
+      "title": "Final Kill",
+      "imdbrating": 3.9,
+      "released": 2020,
+      "synopsis": "An aging protection specialist takes on one last job before retirement, protecting a couple who stole eight million dollars from a ruthless crime family.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMmUyYTU5MjItMGNhOC00ZGFhLTkwYjctMjBmNTlkOTIzYmM1XkEyXkFqcGdeQXVyOTUyOTM3MDc@._V1_UY268_CR110,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "Drama"],
+      "imdbid": "tt9286908",
+      "title": "High Ground",
+      "imdbrating": 6.5,
+      "released": 2020,
+      "synopsis": "In a bid to save the last of his family, Gutjuk, a young Aboriginal man, teams up with ex-soldier Travis to track down Baywara, the most dangerous warrior in the Territory, his uncle.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOWI4YzQyOTYtMTdmMi00YmZjLTk1Y2UtZGE5OTA2ZGJkNTMyXkEyXkFqcGdeQXVyMTg1MTU3OTk@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Mystery"],
+      "imdbid": "tt9261042",
+      "title": "A Perfect Plan",
+      "imdbrating": 4.3,
+      "released": 2020,
+      "synopsis": "Four notorious thieves wake up in a fortified warehouse and are forced by a cunning master thief to plan and commit an extraordinary diamond heist.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMjkzN2Q4ZTktYjBkNC00MDA3LTlkZjEtYzgzYTljMDE3M2EyXkEyXkFqcGdeQXVyNTA4MTQzNzQ@._V1_UY268_CR165,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt9144358",
+      "title": "O'Shea",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Malichi O'Shea Edwards find himself under the gun in a seemingly no win situation. Trying to bring change to his community through his words, he is met with immense opposition. Death ..."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYTczZjFiODEtYjdhMS00NGRjLWE1ZTgtOTk1NjgzMmVjMWRmXkEyXkFqcGdeQXVyODEyODMyNTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt9099634",
+      "title": "Azrael",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Follow-up to the film \"The Theta Girl.\" Ros Shogun, granddaughter of the creator of the drug Theta, recruits a gang of badass chicks to create a new Theta-based drug empire."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNDczNTNmMTgtNWUwNC00MzdkLTg1YmYtMzc3ZDJmYWM1NDBhXkEyXkFqcGdeQXVyNjQ4NTIwNjE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt9049604",
+      "title": "Rogue Taze Mission Dark Moon",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Gabriel Nala, an ex-Covert Ops sniper turned Assassin, after his father and wife were murdered by a ruthless syndicate known as Dark Moon. He soon realizes that there is more to his story than revenge."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjk1ZjU0YzAtY2MyYy00NjJlLWE4NDAtNmU3YjU1MmVkNzBhXkEyXkFqcGdeQXVyMjU4MDA2MzQ@._V1_UY268_CR10,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Romance"],
+      "imdbid": "tt9045104",
+      "title": "Riders",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Two worlds collide as XAVIAS (a Boxer from an upscale family) and GISELLE (a Hip Hop Dancer from the Barrio) fall in love through their passion for Lowrider cars, only to find themselves ..."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzFjNWY1NDctY2M5Ny00NzdjLWE2NDctZmU0ZmU4MzEzNTk0XkEyXkFqcGdeQXVyMjIzOTI2NDc@._V1_UY268_CR12,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Sci-Fi"],
+      "imdbid": "tt9023894",
+      "title": "Final Frequency",
+      "imdbrating": 3,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A ph.D student investigates unusual seismic activity in Los Angeles, leading to a cabal of elitist scientists, who plan to weaponize Nikola Tesla's most secret research to manipulate thought patterns and earthquakes."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMzg0ZWMwNmMtM2Y2Ny00MWQ4LThjODYtNTJiNTczOTYyYzNiXkEyXkFqcGdeQXVyMTQ0OTE0MDA@._V1_UY268_CR50,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Fantasy"],
+      "imdbid": "tt9017714",
+      "title": "Conspiracy Child",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Oracles say the seed of an Earth Angel and Fallen Angel will be born. The child's path will be divided between Good and Evil until they are old enough to choose, and the side not chosen by The One will be wiped from existence forever."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMjNjN2E2NTAtMzY4OC00Yzg2LWE1ZTQtODAyMzdiYjEwOTk4XkEyXkFqcGdeQXVyMjEwNjUxOA@@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt8972556",
+      "title": "I Am Vengeance: Retaliation",
+      "imdbrating": 3.4,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Former special-forces soldier John Gold is given the opportunity to bring Sean Teague - the man who betrayed his team on their final mission in Eastern Europe several years ago - to justice..."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMzhlNDkzMWQtMzlmMS00ZGNlLTljNmUtMzE4Y2JjNWYzZjE3XkEyXkFqcGdeQXVyMzExMDczNjY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt8959010",
+      "title": "Hell, or Tidewater",
+      "imdbrating": 2.8,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Set in the near future, Hell, or Tidewater is a thrill a minute underwater submarine action/sci-fi film told through the eyes of Lt. Cmdr. Allan Parker, a 40 something Sea Dog with a chip ..."
+    },
+    {
+      "imageurl": [
         "https://m.media-amazon.com/images/M/MV5BMDJiNzUwYzEtNmQ2Yy00NWE4LWEwNzctM2M0MjE0OGUxZTA3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
       ],
       "genre": ["Action", "Thriller"],
@@ -417,6 +301,110 @@
     },
     {
       "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNzU1ZTE4YzAtOWNkYi00YWE4LThmY2YtMDNlYzU2ZTgxYTc2XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt8851668",
+      "title": "The Lovebirds",
+      "imdbrating": 6.1,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BODdlNjQ5ZGEtOTFjOS00NWI3LWFjYWEtY2Y1MjFiZTAxZDgyXkEyXkFqcGdeQXVyNTI4MTg4Mw@@._V1_UY268_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Horror", "Sci-Fi"],
+      "imdbid": "tt8804580",
+      "title": "Attack of the Unknown",
+      "imdbrating": 4.6,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A SWAT team transporting a vicious crime syndicate boss must fight their way out of a county detention center during a catastrophic alien invasion."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMTdkOTEwYjMtNDA1YS00YzVlLTg0NWUtMmQzNDZhYWUxZmIyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt8629748",
+      "title": "Spenser Confidential",
+      "imdbrating": 6.2,
+      "released": 2020,
+      "synopsis": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate, Hawk, to take down criminals.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMThkNjFkNWQtZjU1ZS00NzIwLTk4NTUtNmJjNzE2ZGUxODQxXkEyXkFqcGdeQXVyNjg0ODE2MzY@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Sci-Fi"],
+      "imdbid": "tt8615822",
+      "title": "Occupation: Rainfall",
+      "imdbrating": 5.5,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Two years into an intergalactic invasion of earth, survivors in Sydney, Australia, fight back in a desperate ground war. As casualties mount by the day, the resistance and their unexpected ..."
+    },
+    {
+      "imageurl": [],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt8583358",
+      "title": "Veto",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A man confronts his wife after a tough diagnosis."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMmFmZTdhYmItNjIyZS00ZjVlLWFjZjgtMjMyMDA5ZmVjNzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt8461224",
+      "title": "The Tax Collector",
+      "imdbrating": 4.8,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A \"tax collector\" for a crime lord finds his family's safety compromised when his boss' old rival shows up in LA and upends his business."
+    },
+    {
+      "imageurl": [],
+      "genre": ["Action"],
+      "imdbid": "tt8415834",
+      "title": "Devatha",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BY2I1OGE5YTYtZmJiMy00ZjY0LWE0ZjQtOTJkODJlZmQzNjFiXkEyXkFqcGdeQXVyODU4NjUyNjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt8405840",
+      "title": "The Breaker",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Two global conglomerates create the ultimate weapons to fight an impending war - but find them harder to control than anticipated."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYWM5Yjg4ZmQtZDg4Mi00ZGQ3LWE5ZTctNTNjZTQzODgzNjhiXkEyXkFqcGdeQXVyMTAyMjYzMDE3._V1_UY268_CR109,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt8368294",
+      "title": "Brothers by Blood",
+      "imdbrating": 5,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A tale of family, friendships and betrayal in the violent world of the Philadelphia mob."
+    },
+    {
+      "imageurl": [
         "https://m.media-amazon.com/images/M/MV5BZTAxNWE2MDItZWFlNS00MWM1LWI1ZjQtN2I5NDBhNWYzZjNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
       ],
       "genre": ["Action", "Adventure", "Thriller"],
@@ -425,6 +413,66 @@
       "imdbrating": 2.1,
       "released": 2020,
       "synopsis": "A man embarks on a bloody rampage to save his kidnapped brother.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzBmM2RiODgtZjdjZi00NjI1LTg1ZjItMjUwMjFmNDNlM2JhXkEyXkFqcGdeQXVyMzM3Mjk0NQ@@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Sci-Fi"],
+      "imdbid": "tt8365426",
+      "title": "Kill Mode",
+      "imdbrating": 2.9,
+      "released": 2020,
+      "synopsis": "In a gritty near future, an ex freedom fighter reluctantly jumps back into the fold after discovering a disturbing secret that could bring down the company that owns the world.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNmZkNmU3ODItNWE1Yi00ZDA4LTk1M2EtMDlkOGQ3YTk0ZmIzXkEyXkFqcGdeQXVyMTM5MjI4Mjc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt8332454",
+      "title": "Shooting Heroin",
+      "imdbrating": 5.3,
+      "released": 2020,
+      "synopsis": "A small town community comes together to eradicate the heroin epidemic from its midst by whatever means necessary.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZjA2MjI5OWMtNWVlNi00MTViLTg2MjktOTExMmExYWFjZDczXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "History"],
+      "imdbid": "tt8318284",
+      "title": "The Legion",
+      "imdbrating": 3.1,
+      "released": 2020,
+      "synopsis": "Noreno, a half-Roman, is entrusted with the mission of crossing the snowy mountains of Armenia, swarming with Parthian patrols, to seek help for his slowly dying men.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Horror", "Thriller"],
+      "imdbid": "tt8244784",
+      "title": "The Hunt",
+      "imdbrating": 6.5,
+      "released": 2020,
+      "synopsis": "Twelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNzMyOWRjYjUtMjc2OC00MWUyLWEzODktYWZlZDYxYjk4MDViXkEyXkFqcGdeQXVyODE0OTU5Nzg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy"],
+      "imdbid": "tt8242084",
+      "title": "My Spy",
+      "imdbrating": 6.4,
+      "released": 2020,
+      "synopsis": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
       "type": "movie"
     },
     {
@@ -441,6 +489,78 @@
     },
     {
       "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZGU3YzRhY2UtYjQwYS00NmExLTkxMjEtN2RjNWU3ODliNzA5XkEyXkFqcGdeQXVyNjc2ODU1MDQ@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt8017856",
+      "title": "Lonely in London",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Young actor is saved by a female vigilante from a violent attack and the two people begin to form a fragile bond without realizing they are about to face a dangerous enemy."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTc0ZmIxZjMtOGY1OC00NTZlLWFlOWEtYjNmN2FjMWMyOTYwXkEyXkFqcGdeQXVyMTc1MTk0MjQ@._V1_UY268_CR7,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt7983744",
+      "title": "Rogue Warfare: Death of a Nation",
+      "imdbrating": 3.2,
+      "released": 2020,
+      "synopsis": "The Black Mask Organization coordinates a twisted plot which will devastate the world within the next 36 hours.",
+      "type": "movie"
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZmQ5OGQ0NjQtNWJmZi00YjgxLTg5NTAtMjc5OTNjZjc0ZTlkXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Horror"],
+      "imdbid": "tt7978672",
+      "title": "Black Water: Abyss",
+      "imdbrating": 4.5,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Five friends exploring a remote cave system in Northern Australia find themselves threatened by a hungry crocodile."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMWE4OGYxZGUtNThlNC00NWRlLThmZGItYTFlOTUyMzU1YTNiXkEyXkFqcGdeQXVyMjc4NTYxOTQ@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt7962542",
+      "title": "SoulHood: Prime",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Being the best can be tough, especially when it comes to the movie's two protagonists, Rick and DJ and the two antagonists, Luke and Lee Hills. They endure a challenge of a lifetime to test the best of their abilities."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNTVkMjgwMWUtYTc2Ny00N2FkLWIzNWYtYjA5YmE5MmFlZDQ5XkEyXkFqcGdeQXVyMjA3NDg1MDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Horror"],
+      "imdbid": "tt7909436",
+      "title": "Razor Bastard",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Based on the widely-popular comic book of the same name, created by Paul PJ Johnson. Prepare for an ultra-violent comic-book adaptation."
+    },
+    {
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjk0OTIzMDktY2VjNi00MTNlLWE3NDMtZTMyNTIzMWQ1MTNiXkEyXkFqcGdeQXVyMjMzMTc2MTQ@._V1_UY268_CR169,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt7908426",
+      "title": "A Soldier's Story 2: Return from the Dead",
+      "imdbrating": 4.3,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": [
         "https://m.media-amazon.com/images/M/MV5BZmMyZmFkZWUtNTkxYi00NjI5LTg0NDQtYWJhM2JkNTZhZmZkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
       ],
       "genre": ["Action", "Drama"],
@@ -453,6 +573,18 @@
     },
     {
       "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZDJiNWFiODAtN2I3Ny00NzUzLTk0ZjUtY2FjMzNjNTc2M2IyXkEyXkFqcGdeQXVyMzY3OTUwMTc@._V1_UY268_CR1,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "Crime"],
+      "imdbid": "tt7846844",
+      "title": "Enola Holmes",
+      "imdbrating": 6.6,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "When Enola Holmes-Sherlock's teen sister-discovers her mother missing, she sets off to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy around a mysterious young Lord."
+    },
+    {
+      "imageurl": [
         "https://m.media-amazon.com/images/M/MV5BY2U4N2ZjOWQtZTdlZC00MDRjLTk4MDMtY2RhZWY5NWExNGJlXkEyXkFqcGdeQXVyMzU3MjI3ODk@._V1_UY268_CR9,0,182,268_AL_.jpg"
       ],
       "genre": ["Action", "Drama", "Sport"],
@@ -462,126 +594,6 @@
       "released": 2020,
       "type": "movie",
       "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMDhjNDRhODMtNmMwMS00ODc4LWE1YmItMTBmYjhiZWZjMjk2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Comedy", "Crime"],
-      "imdbid": "tt7212754",
-      "title": "Ludo",
-      "imdbrating": 7.6,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": "A dark comedy anthology, which was supposed to be center on unavoidable jeopardize of life and has four different stories set in a quintessential Indian metro."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BM2Q4NWI5NDUtNThhNy00YmUzLWFlZWItODhkZDU0MmU0NWI0XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR4,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "History"],
-      "imdbid": "tt6932856",
-      "title": "Sangamithra",
-      "imdbrating": null,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": "Set in the 8th century A.D., Sangamithra is the story of an Indian Princess and the trials and tribulations she undergoes so as to save her kingdom."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMjllMGVhYTktOTcxZC00NTVhLWE3YjYtNjI5MGZhZDhlN2MzXkEyXkFqcGdeQXVyNjQxNDg4OTM@._V1_UY268_CR8,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama"],
-      "imdbid": "tt6912162",
-      "title": "Rambo",
-      "imdbrating": null,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": "Remake of the Rambo film series. Plot is unknown."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMWNmZTRhOTktNzdiZS00NjM3LThjNmMtZjEzNDMwNDEyODkyXkEyXkFqcGdeQXVyNzI2Mjc1NTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Thriller"],
-      "imdbid": "tt6736460",
-      "title": "Therapist",
-      "imdbrating": null,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": "A mysterious therapist moonlights as a elite hitman and finds himself in trouble when he helps out one of his clients."
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BYjIzYjQ0YWYtYTgxOS00M2QxLWE0ZjMtYjQyNjVmM2FjZWJiXkEyXkFqcGdeQXVyMjUxOTgwMzU@._V1_UY268_CR110,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action"],
-      "imdbid": "tt6485306",
-      "title": "Sher",
-      "imdbrating": null,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BNDRhOThjMzEtMTVjZC00NTllLWI3OGYtMzdhOTQxNjQ4ZjllXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR7,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Comedy"],
-      "imdbid": "tt5679446",
-      "title": "Sabaash Naidu",
-      "imdbrating": null,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMGFhOTc2NDctOTcwMi00YTRlLWFhMzgtZDZlNGNiODc2MmM3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "Thriller"],
-      "imdbid": "tt3802574",
-      "title": "Operation Parindey",
-      "imdbrating": 4.7,
-      "released": 2020,
-      "synopsis": "The film is a fictional story based on true events which depicts a groundbreaking jail break.",
-      "type": "movie"
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BZTNlODgzMjAtN2M4OS00YzY1LTlhOTktZWU0MGZlYTBmMjRlXkEyXkFqcGdeQXVyNjgwNjM5Mzg@._V1_UY268_CR87,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Drama", "History"],
-      "imdbid": "tt1836895",
-      "title": "Rana",
-      "imdbrating": null,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BYWJhOGU2OWItMDAxMS00MzQ5LThhNjgtZTkxNjk4ZDJlOGNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action", "Romance", "Thriller"],
-      "imdbid": "tt12226788",
-      "title": "Khuda Haafiz",
-      "imdbrating": null,
-      "released": 2020,
-      "type": "movie",
-      "synopsis": ""
-    },
-    {
-      "imageurl": [
-        "https://m.media-amazon.com/images/M/MV5BMDM2NjlhNWYtY2Q2MS00ZDgyLWEyMGItMDY3NzAzOTczZWE2XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR2,0,182,268_AL_.jpg"
-      ],
-      "genre": ["Action"],
-      "imdbid": "tt11573410",
-      "title": "Guns of Banaras",
-      "imdbrating": 5.9,
-      "released": 2020,
-      "synopsis": "Guns of Banaras is Indian (Hindi ) language action film. Directed by Shekhar Suri and jointly produced by Ashok Munshi and Shaina Nath Taldar under the banner of Dashaka Cinema Co, and is presented by Dashaka Films and AJ media.",
-      "type": "movie"
     }
   ]
 }
