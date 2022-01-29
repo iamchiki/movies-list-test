@@ -1,0 +1,740 @@
+{
+    "page": 1,
+    "results": [[
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNjEyMjM0ZTYtNzY5Yy00YjE2LWFhZDUtYWY3YTVjOWE0MTAzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbid": "tt9817760",
+        "title": "Jai Mummy Di",
+        "imdbrating": 3.7,
+        "released": 2020,
+        "synopsis": "Jai Mummy Di is a light-hearted family comedy that portrays the trials and tribulations a couple has to undergo due to the dynamics between their respective mothers.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BOTg2NGEzNWUtZjFlNi00NmY4LTg0MzgtZDBiYzI1N2ViYjEzXkEyXkFqcGdeQXVyOTg4MzcyNzQ@._V1_UY268_CR2,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "imdbid": "tt9766280",
+        "title": "Bhangra Paa Le",
+        "imdbrating": 6.1,
+        "released": 2020,
+        "synopsis": "Determined to bring traditional bhangra to the world stage, a dancer preps for an international competition against a rival with dreams of her own.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BY2RlZmZkOTUtMDI5Ni00ZjZmLWI1OTItZmUwNWE4ZWVjNzFiXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbid": "tt9683478",
+        "title": "The Half of It",
+        "imdbrating": 6.9,
+        "released": 2020,
+        "synopsis": "When smart but cash-strapped teen Ellie Chu agrees to write a love letter for a jock, she doesn't expect to become his friend - or fall for his crush.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMDkzMDE2ZTAtYWE4ZC00OTdhLTkyMTktMmI1NTYyZTgzMzdlXkEyXkFqcGdeQXVyMjEzNzg4NjU@._V1_UY268_CR2,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "imdbid": "tt9390218",
+        "title": "English ki taay taay fisss",
+        "imdbrating": 6.6,
+        "released": 2020,
+        "synopsis": "",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNjY1OTI0NjEtNzRmZS00NzFlLTlhMTgtNjdmNWY2MDQ3YzIwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt9248952",
+        "title": "Jawaani Jaaneman",
+        "imdbrating": 6.6,
+        "released": 2020,
+        "synopsis": "A 40 year-old playboy's life turns upside down when he comes to know that he has a 20 something year-old daughter.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMmI3ODhjYzAtNmI1Ny00ZjViLWIzMGYtOTFhZDI3ZDA3MTkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt8983164",
+        "title": "Chhalaang",
+        "imdbrating": 6.8,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "The film is a unique social comedy based in a small town of Uttar Pradesh directed by Hansal Mehta. It stars Rajkummar Rao and Nushrat Bharucha. It is co-produced by Ajay Devgn, Luv Ranjan and Ankur Garg."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNjlkZjBjZmUtNjZjNS00ODlkLWIzODYtODY0NmViN2E0MjIxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt8907986",
+        "title": "Angrezi Medium",
+        "imdbrating": 7.3,
+        "released": 2020,
+        "synopsis": "When his daughter decides to further her studies in London, a hardworking Rajasthani businessman does everything in power to make her dreams come true.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZDg3N2MzOGYtNzYzYS00NDA5LWE2MWYtZDg1OGU2ZTgxZjg1XkEyXkFqcGdeQXVyMjEzNzg4NjU@._V1_UY268_CR18,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt8705332",
+        "title": "Match Of Life",
+        "imdbrating": 6.2,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Match of Life\" is based on a cricketer's life who looks like Virat Kohli and what circumstances he faces in day-to-day life being a normal person with a celebrity face."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZjVhNmE0MTgtMTEzYy00ZTExLThiNGMtZWNlYTkyZWM0ZTdiXkEyXkFqcGdeQXVyMTE5MjE5NzMw._V1_UY268_CR15,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbid": "tt8110330",
+        "title": "Dil Bechara",
+        "imdbrating": 8.1,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "A love story about two cancer patients."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMDhjNDRhODMtNmMwMS00ODc4LWE1YmItMTBmYjhiZWZjMjk2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "imdbid": "tt7212754",
+        "title": "Ludo",
+        "imdbrating": 7.6,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "A dark comedy anthology, which was supposed to be center on unavoidable jeopardize of life and has four different stories set in a quintessential Indian metro."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMDVjOTU5MDktYTMwNy00NzM0LTgxYjktNDFmZThkYjliZjBhXkEyXkFqcGdeQXVyMjMxMDk4MTE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt6811682",
+        "title": "Quickie",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Two teenage strangers decide to have a one night stand in a city that never sleeps."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMmY1OWY3OTAtMTUwOS00ZTc2LTgxZWQtMjAyZjZhZjMxOTFiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt6711748",
+        "title": "Mr Lele",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "A Marathi NRI takes ecstasy at a night club and in 48 hours he ends up in jail."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNzE0YjFmYTktYWUwMC00MGRjLWEyZGUtMTRlMTJhNzgzZTQ3XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt5873892",
+        "title": "Yahan Sabhi Gyani Hain",
+        "imdbrating": 5.2,
+        "released": 2020,
+        "synopsis": "A satirical comedy film shot in Kanpur. The story revolves around a delusional and dysfunctional \"Kanpuriya\" family, are told of having hidden ancestral treasure. But in the process of finding the treasure, find the true lesson of life.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNDRhOThjMzEtMTVjZC00NTllLWI3OGYtMzdhOTQxNjQ4ZjllXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR7,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Action",
+            "Comedy"
+        ],
+        "imdbid": "tt5679446",
+        "title": "Sabaash Naidu",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BM2QxMWFlOTktNWY0Mi00MDQ5LWExMTYtNThjZTFhNGZkZjk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt4558376",
+        "title": "Downhill",
+        "imdbrating": 4.9,
+        "released": 2020,
+        "synopsis": "Barely escaping an avalanche during a family ski vacation in the Alps, a married couple is thrown into disarray as they are forced to reevaluate their lives and how they feel about each other.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMjk3MzFkOGUtMDY4Ny00NzljLTliN2UtZGRhOGUxMTViYTc2XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR1,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "imdbid": "tt4486148",
+        "title": "Shimla Mirchi",
+        "imdbrating": 4.6,
+        "released": 2020,
+        "synopsis": "A young man who gets tongue-tied around women writes a love letter to his crush, but it ends up in the hands of her mother, who thinks it's for her.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BODA0MDczMDctOWRhNi00OWRmLWI0NjYtM2ZiMmJiY2NhZWRmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR43,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt3734580",
+        "title": "Ghoomketu",
+        "imdbrating": 5.5,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "An aspiring writer from a small town in U.P. runs away to Mumbai. He gives himself 30 days to try and prove his worth."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BYTUwZTIxMzItYTNjOS00OGRlLTlmYzctM2E3MzBlMjg4YWQ3XkEyXkFqcGdeQXVyMjMxNzEzNTc@._V1_UY268_CR177,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "imdbid": "tt2914056",
+        "title": "Desi Magic",
+        "imdbrating": 5.4,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [],
+        "genre": [
+            "Adult",
+            "Comedy",
+            "Horror"
+        ],
+        "imdbid": "tt12233100",
+        "title": "Coca Cola",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNjBkZTU5NTgtMzk5Yy00NGZhLTk1MzktOWExZmI0ODAyM2IzXkEyXkFqcGdeQXVyMzE4NjMwMjc@._V1_UY268_CR14,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt11964084",
+        "title": "Virgin Bhanupriya",
+        "imdbrating": 2.8,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Bhanupriya, a conservative girl decides to lose her virginity but fails in her every attempt. A soothsayer predicts that it is an impossible task and it will not happen to her. She decides to overcome this bad luck."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNmM0ZGI3OWItYjdlNy00NzZhLWFjYzEtNDUwMDEwMWJjZWUwXkEyXkFqcGdeQXVyNTcwNDU1NTI@._V1_UY268_CR13,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "imdbid": "tt11963556",
+        "title": "Joda Thath Ka",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "The tip of the husband wife and the way of loving them is based on each other's quarrels and daily actions and the living conditions of the people of the village."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZTE4NGRiNDgtOWFjZC00MmU1LWI5ZjctMWNkMGMyNDNjOWQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbid": "tt11953628",
+        "title": "Maska",
+        "imdbrating": 5.8,
+        "released": 2020,
+        "synopsis": "Determined to make it in showbiz, an aspiring young actor considers turning his back on the beloved Irani café run by his family for generations.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BOGVjNmFiZjgtMzcyNC00YmY3LWI1ZWItNDg4YTgxZjc5ZWRjXkEyXkFqcGdeQXVyODM5Mzk0MTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt11924558",
+        "title": "Pange Yahan Sab Lafange",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNWNjYjVlZjItMWNhZC00YTFiLWJlZWEtMjJlODY5NGQ2OTgzXkEyXkFqcGdeQXVyMTEzMTUwOTAx._V1_UY268_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt11709788",
+        "title": "Kehta Hai Yeh Dil",
+        "imdbrating": 3.3,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZmNmYjdhMWUtNzNjOC00NTA1LTg3MzktMGVhMzQzMDk1NGNhXkEyXkFqcGdeQXVyNTcwNDU1NTI@._V1_UY268_CR13,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt11624506",
+        "title": "Chhakda",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "A girl runs away from her home to meet her lover for fear of marriage and meets a driver on a dark road and the two get into a bitter fight and the two fall in love with each other and return home together."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BYTFiNTRjZGUtMzExZi00OGMxLWJjNDUtZjZmNmEzODk0MzA2XkEyXkFqcGdeQXVyNTc0MjY0NTM@._V1_UY268_CR9,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt11599966",
+        "title": "Pagleaazam",
+        "imdbrating": 7.3,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Pagle Aazam is a quirky comedy that revolves around three men who are dumped by a girl. But soon after Rahul meets Ishita, their lives change and everything gets turned upside down when they get trapped in their own chaos."
+    },
+    {
+        "imageurl": [],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt11433820",
+        "title": "3 Days 4 Nights in Bihar",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNzcyYTBkZjUtZjQ5MC00ZWM5LTkxMmUtMjAyYjA0MjE5MmI4XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Action",
+            "Comedy"
+        ],
+        "imdbid": "tt11292062",
+        "title": "Adhiktam",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "A reluctant student fights educational violence using both his wit and fists."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNmIyYzQ5Y2YtZDJlZC00ZDU1LTlmY2EtOGRjODg1N2VkZTMxXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Thriller"
+        ],
+        "imdbid": "tt11261918",
+        "title": "O Pushpa I Hate Tears",
+        "imdbrating": 6.2,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "You always fall in love with those whom you want to be the part of your life. This is the only truth and only condition. When Aditya fallen in love with Pushpa, she thought that he only ..."
+    },
+    {
+        "imageurl": [],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbid": "tt11261278",
+        "title": "Romeo",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZWFlYTk4YTYtNmU3ZC00NDVhLTlmMjUtZGY4MjI4NTBkZWY5XkEyXkFqcGdeQXVyNTcwNDU1NTI@._V1_UY268_CR41,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt11251216",
+        "title": "Atithi Kab Aoge Shhamshan",
+        "imdbrating": 4.8,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BM2I1OTZmOWYtZGQ5MS00ZWUwLTkxNDgtNGM4MmI2NzA2MWUyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt11231440",
+        "title": "Doordarshan",
+        "imdbrating": 6.2,
+        "released": 2020,
+        "synopsis": "When the family's grandmother wakes up, the parents who have been bickering over their suicide are compelled to revive their marriage and keep the peace at home.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BNjJmOWExYzktODJmYi00YjY2LTkwOTMtZGNkMTc0YTY3MjQwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt11227156",
+        "title": "Sar Car Ki Seva Mei",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt11213594",
+        "title": "KTina",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BYzFkMTJiNWMtNzE0Ny00NzMyLWExZGMtYTUxYmE4ZGFkNDczXkEyXkFqcGdeQXVyODE2NDgwMDA@._V1_UY268_CR43,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Romance"
+        ],
+        "imdbid": "tt11204286",
+        "title": "Vellapanti",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Vellapanti story revolves around four childhood friends who struggle to fulfill their ambitions but each time find themselves in a soup."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BY2E1ZmRhYTUtNjJmNy00MTg2LTlhNmMtMWU0OTFmNmI0ODg5XkEyXkFqcGdeQXVyMTA2OTUzNTc3._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt11162316",
+        "title": "3 Shyaane",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BM2JlMTdjODAtODIxMi00YjE4LWJlMGYtZGUyNjFlYzQ1Y2FmXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR22,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbid": "tt11112526",
+        "title": "Indoo Ki Jawani",
+        "imdbrating": 3,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZDNhOTg3ODgtNmEzMi00ZTc0LWJjZjMtZTExZWEwZTFiYzBmXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR16,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "imdbid": "tt11079552",
+        "title": "A Game Called Relationship",
+        "imdbrating": 6.5,
+        "released": 2020,
+        "synopsis": "A celebrity power couple who is in a live-in relationship fake their breakup to see how far their pursuers will go to win them over.",
+        "type": "movie"
+    },
+    {
+        "imageurl": [],
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "imdbid": "tt10916102",
+        "title": "Bahut Hua Sammaan",
+        "imdbrating": 7.3,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "With their planned heist gone wrong, Bony and Fundoo get inextricably involved in the pursuit of 'Kohinoor' - quite possibly the biggest scandal the country will ever witness."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BOWMwMTViMmQtNjUzMy00MWQzLWIxN2UtZDAwN2Q5OGQ2NWIyXkEyXkFqcGdeQXVyNjQxNDg4OTM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "imdbid": "tt10885444",
+        "title": "Khaali Peeli",
+        "imdbrating": 2.3,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "An upcoming Indian Hindi-language romantic action film directed by Maqbool Khan and produced by Ali Abbas Zafar under the banner of Zee Studios. The film features Ishaan Khatter and Ananya ..."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZGUxOTBjY2ItMDQwMy00MzczLWE3YmQtNWI3YTljOTQ3YzE4XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR43,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "imdbid": "tt10875678",
+        "title": "Happy Hardy and Heer",
+        "imdbrating": 5.5,
+        "released": 2020,
+        "synopsis": "Happy and Heer grow up as best friends, with Happy falling for Heer over the years. When she moves to London, Happy goes with her on the pretext of getting a job. He hopes that she will ...",
+        "type": "movie"
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BOTc5YTJiYTctMmI0Ni00ZTNkLTg4YjItNjU1NGQwMjU4MTg0XkEyXkFqcGdeQXVyMTA0NTk5NDAz._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "imdbid": "tt10744836",
+        "title": "Aahvaan",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMDVkMDAxZjYtNmY1Yi00OTUwLTkzODctODdhNzQ1NjlhYmZlXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR105,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt10731264",
+        "title": "Suraj Pe Mangal Bhari",
+        "imdbrating": 6,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BN2ExODhjNTYtNjlhMy00MWNiLWFhYmQtMjRkMmRjN2QzYzc0XkEyXkFqcGdeQXVyODc5NzAwNzk@._V1_UY268_CR177,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "imdbid": "tt10711328",
+        "title": "Avantika",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZTI3ZjRiZjctYzlkZS00NmVlLWJmNjMtMjk5OTkwMWE3MGEzXkEyXkFqcGdeQXVyOTE2Njk4NzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt10662184",
+        "title": "Furrr Chidiya Udd",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BZTQ3NWUxYzctY2YxZS00OWJjLTgzOGItNTZjYWUyNDVmYmRjXkEyXkFqcGdeQXVyODk1NzM2MjE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "imdbid": "tt10588750",
+        "title": "Doraemon the Movie: Nobita's New Dinosaur",
+        "imdbrating": 7.5,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    },
+    {
+        "imageurl": [],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "imdbid": "tt10543680",
+        "title": "Ginny Weds Sunny",
+        "imdbrating": 5.7,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Yami Gautam seen romancing Vikrant Massey in producer Vinod Bachchan's next 'Ginny Weds Sunny'."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BYzNmYTNhZDQtMzFiZS00OWZmLWJkYTAtNDMzZDZmMmFlZDY3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "imdbid": "tt10515526",
+        "title": "Lootcase",
+        "imdbrating": 7.6,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Lootcase is a Hindi movie starring Kunal Kemmu, Rasika Duggal, Gajraj Rao, Ranvir Shorey and Vijay Raaz. in prominent roles. It is a drama directed by Rajesh Krishnan."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMDdhMWY1MjQtYTc4ZS00OGRlLWJmYzQtMjhlMjg5ZmY3YjM5XkEyXkFqcGdeQXVyODA2MTA1NTE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt10461376",
+        "title": "Romeo Idiot Desi Juliet",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": "Romeo Idiot Desi Juliet is modern time ROM-com."
+    },
+    {
+        "imageurl": [
+            "https://m.media-amazon.com/images/M/MV5BMGFmYWVhMTYtY2E3MC00MjMyLTlmNzktMTFlMjFmZGIwMGY3XkEyXkFqcGdeQXVyMTk1NjM2MTI@._V1_UY268_CR177,0,182,268_AL_.jpg"
+        ],
+        "genre": [
+            "Comedy"
+        ],
+        "imdbid": "tt10367454",
+        "title": "Vyavastha",
+        "imdbrating": null,
+        "released": 2020,
+        "type": "movie",
+        "synopsis": ""
+    }
+]}

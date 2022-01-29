@@ -1,0 +1,737 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDNlYTczNWYtZTBjNS00ODIzLWI5OGQtMWFmZGIwZWM4MGM0XkEyXkFqcGdeQXVyNzA5NjY5MzA@._V1_UY268_CR1,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt9263550",
+            "title": "Rocketry: The Nambi Effect",
+            "imdbrating": null,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Based by the life of ISRO Scientist Nambi Narayanan who was falsely accused of being a spy and arrested in 1994. Though free, he is still fighting for justice, with those police officials alleged to have falsely implicated him, still free."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMTAxNmM2MDQtMWFhYi00NTM1LWEzNjItYzg4OTE0NDhmODM4XkEyXkFqcGdeQXVyMTA5MzE4MDYx._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "History",
+                "Thriller"
+            ],
+            "imdbid": "tt10272402",
+            "title": "Project Kahuta",
+            "imdbrating": null,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "A captivating and true case study of espionage webbed around one of the finest operations pulled by India's Research and Analysis wing against Pakistan's top secret nuclear plant at Kahuta."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDMxOWVmZjgtOGNlMi00MTI2LWI5ZjQtNjYyMTAxMzcyZTM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Crime",
+                "Drama"
+            ],
+            "imdbid": "tt10083340",
+            "title": "Gangubai Kathiawadi",
+            "imdbrating": 5.4,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "The film revolves around the life of Gangubai Kothewali, a powerful woman in the 60s, who was also known as the 'Madam of Kamathipura' for her connections with the underworld."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BY2ZkZDRhMzAtNzcxNy00MzUyLTg5YWYtNGUxNmJjMzY1MGUxXkEyXkFqcGdeQXVyMzUyMzYwNzQ@._V1_UY268_CR156,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt8146652",
+            "title": "Paramahans Lakshminath Gosain",
+            "imdbrating": null,
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "this boigraphy Docudrama is about the legendary Saint of Mythila Paramhans Lakshminath Gosain ,who is called as babajee in bihar and mythila region . he was born approximately in the year ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZThkNGQ3OTItMjk1MS00MTRiLWFkYTMtNDQ5YmU3NWYyNDk2XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR8,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt6265050",
+            "title": "Shabaash Mithu",
+            "released": 2022,
+            "type": "movie",
+            "synopsis": "Indian women's cricket captain Mithali Raj's biopic."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZDZlNTRlYzYtMjEyOS00YjI1LWI3YjUtOTUwMDM3OGZkYTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Crime",
+                "Drama"
+            ],
+            "imdbid": "tt9614452",
+            "title": "The Big Bull",
+            "imdbrating": 6.2,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "The story of the film is based on real events of financial market that took place between 1990 and 2000 involving Harshad Mehta and his financial crimes."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BM2FiOGFiYWYtMmFmMC00ZWI1LWExYWEtOTI4OGNiOTNhNDZmXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama",
+                "Sport"
+            ],
+            "imdbid": "tt8983228",
+            "title": "Jhund",
+            "imdbrating": 7,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "Based on the life of Vijay Barse, a retired sports teacher who founded an NGO called Slum Soccer. He managed to rehabilitate street kids by keeping them off drugs and crime by turning them into soccer players and building a whole team."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNzdjYmMxOGUtZTNkNi00M2MzLWFiMzItNzU2NDI3ZGExMGNlXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama",
+                "History"
+            ],
+            "imdbid": "tt7518786",
+            "title": "'83",
+            "imdbrating": 7.4,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "The story of India's incredible cricket World Cup victory in 1983."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BN2QyNzBmMWItY2E4My00M2Q1LWI0MGEtYWFiYjJjY2NlZWZjXkEyXkFqcGdeQXVyNTc0MjY0NTM@._V1_UY268_CR43,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt12084320",
+            "title": "Main Mulayam Singh Yadav",
+            "imdbrating": 4.1,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "\"ZINDA KAUMEIN PAANCH SAAL TAK INTEZAAR NAHIN KARTI\" This quote by one of his guru Dr. Ram Manohar Lohia became his Mantra as he flourished and became one of the most successful Political ...\n                    See full synopsis"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BOTE1NjYyMDItNjczYi00MGQ2LWE0NzItZmU5MjhjZTk1NjAxXkEyXkFqcGdeQXVyODI1MTQ5ODY@._V1_UY268_CR13,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt11318718",
+            "title": "Om Shri Satya Sai Baba",
+            "imdbrating": 7,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYjJlYzVhOWQtM2IwYS00NDllLTgzYzctN2VhZTI3MWRiOTRkXkEyXkFqcGdeQXVyNzg4MTIxNjk@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt11281410",
+            "title": "Secrets of love (SOL)",
+            "imdbrating": null,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZGJjNTViMDgtZjMwZS00ZDNmLWE1NDItZDFlOTBlYzA3MDkwXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt10295212",
+            "title": "Shershaah",
+            "imdbrating": 8.7,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "Vikram Batra Biopic: Siddharth Malhotra to Star in 'Sher Shah' Captain in Karan Johar's Film."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMGE0NGNlMmYtZTMyZS00NjY4LTkwNDUtYjA3MjIyY2NlYTExXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR2,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt10152736",
+            "title": "Thalaivi",
+            "imdbrating": 6.1,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "Director AL Vijay, known for films like Diya and Thalaivaa, made public the tile of his upcoming biopic. Titled Thalaivi."
+        },
+        {
+            "imageurl": [],
+            "genre": [
+                "Biography",
+                "Comedy"
+            ],
+            "imdbid": "tt9399096",
+            "title": "Mata",
+            "imdbrating": null,
+            "released": 2021,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BM2QwMjk1ZmEtNTc4My00MTk0LWE3NWItYWE3OTQ0MjIwMjFkXkEyXkFqcGdeQXVyNjQxNDg4OTM@._V1_UY268_CR109,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Crime",
+                "Drama"
+            ],
+            "imdbid": "tt10280296",
+            "title": "Sardar Udham",
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "Biopic of Sardar Udham Singh Starring Vicky Kaushal.",
+            "imdbrating": 8.7
+        },
+        {
+            "imageurl": [],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt11651514",
+            "title": "Manasige Mutthittalu",
+            "released": 2021,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt11651806",
+            "title": "Limit",
+            "released": 2021,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt12052888",
+            "title": "Puratchi Thalaivi",
+            "released": 2021,
+            "type": "movie",
+            "synopsis": "A biopic on former Tamil Nadu CM J Jayalalitha.",
+            "imdbrating": 7.6
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNjZjYzRhMmEtMTU0Ny00YWI4LThiZjEtNWZjMDQ3MTgwZmVhXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR16,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt9614460",
+            "title": "Chhapaak",
+            "imdbrating": 5.1,
+            "released": 2020,
+            "synopsis": "The trials and triumphs of Malti, an acid attack survivor. From the investigation of the attack to the court proceedings, the medical treatment to the emotional healing. Chhapaak is the story of the unquashable human spirit.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZjNjYzUzZWQtMDlkZC00NjAwLWExN2EtOWEzMGI3MjY3NDhiXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt9390240",
+            "title": "Shakeela",
+            "imdbrating": 3.2,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": "A biopic based on the life of adult star Shakeela, who ruled the South Indian film industry for over two decades. The film features Richa Chadha in the lead role."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZTdkYzFkNGMtZjFhMi00MWY2LTlmMWQtMmEwOGUxMTkzMzI1XkEyXkFqcGdeQXVyNjkwMTYyOTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Documentary"
+            ],
+            "imdbid": "tt8946762",
+            "title": "Admitted",
+            "imdbrating": 9,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": "Admitted is a a striking, uplifting journey of five decades to become the first Transgender student of Panjab University."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNGE4MjkwMzMtNzlkMC00MzQxLWJhYzQtZGRkN2E1MzJmYjJmXkEyXkFqcGdeQXVyMjEzNzg4NjU@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt8695934",
+            "title": "Deendayal Ek Yug Purush",
+            "imdbrating": 8.5,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": "Pandit Deendayal Upadhyaya was the co-founder of Bhartiya Jana Sangh, fore-runner of Bhartiya Janata Party. He was involved in social work and also participated in the Indian freedom ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BOWFiODY4NTctMTk1Zi00YjFlLTg0ZjAtZjBhMzY3OGVhMzQyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama",
+                "War"
+            ],
+            "imdbid": "tt8176312",
+            "title": "Gul Makai",
+            "imdbrating": 2.4,
+            "released": 2020,
+            "synopsis": "Gul Makai' accounts the courageous journey and struggle of Nobel laureate Malala Yousufzai, from her humble upbringing in the Swat Valley to her becoming the champion for free education to all.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMDc5ZmQ3MzUtYTY4OS00YTE3LTkwNmItNmQ2ODIwNWM3MzY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt8108274",
+            "title": "Tanhaji: The Unsung Warrior",
+            "imdbrating": 7.6,
+            "released": 2020,
+            "synopsis": "Tanhaji Malusare, a military chieftain in the army of the Maratha king Shivaji, leads the charge to capture the strategically important Kondhana fort guarded by the army of the fierce Rajput chieftain Udaybhan Rathod.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BM2U5OGQ2NDQtMjRjNS00YWRjLWJhYTUtYzBmMDZiOGUyYzZlXkEyXkFqcGdeQXVyMjEzNzg4NjU@._V1_UY268_CR6,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt12278882",
+            "title": "Sarojini",
+            "imdbrating": null,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": "The movie is biopic of Indian political activist and poet Sarojini Naidu."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BY2ZjODJhNjEtMTJlYS00M2EzLThhOWEtYzMwNTQxNTRkYjQ5XkEyXkFqcGdeQXVyMTEyNzMzMjgy._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt11654504",
+            "title": "AmarJyoti AkkaMahadevi",
+            "imdbrating": 8.6,
+            "released": 2020,
+            "synopsis": "AmarJyoti AkkaMahadevi is a Kannada movie staring Rajashri Thalange as AkkaMahadevi. This is a biography of an extraordinarily enlightened Shiva Yogini Akka Mahadevi from 12th Century. Akka...",
+            "type": "movie"
+        },
+        {
+            "imageurl": [],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt11472066",
+            "title": "Seerum Puli",
+            "imdbrating": 3.2,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BOThmNjBjZTktZGIzYy00NThkLTkxMjEtZGI2ODgxODU3Njc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt10964468",
+            "title": "Shakuntala Devi",
+            "imdbrating": 6.1,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": "Based on the life of Shakuntala Devi who is a well-known mathematical genius and calculating progidy from India. She has been nicknamed 'Human Computer' because of her extraordinary talent ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYTU1ZTllMzAtNmQzMS00MTY2LThlZmQtNmEyZmRlYWZmYWExXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR12,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt10501818",
+            "title": "Untitled Sathyan Biopic",
+            "imdbrating": null,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNTY3NmIxY2UtNjcxYS00YzIwLTg1OWItZmVkNWRjYjFkM2FlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR11,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt10350626",
+            "title": "Gunjan Saxena: The Kargil Girl",
+            "imdbrating": 5.3,
+            "released": 2020,
+            "type": "movie",
+            "synopsis": "Kargil Girl is based on the life of Gunjan Saxena, an Indian Air Force Pilot. The film features Janhvi Kapoor, Pankaj Tripathi and Angad Bedi in the lead roles."
+        },
+        {
+            "imdbid": "tt5300674",
+            "genre": [
+                "Biography"
+            ],
+            "released": 2020,
+            "title": "Main Khudiram Bose Hun",
+            "type": "movie",
+            "synopsis": "Biopic on patriotic leader Khudiram Bose. This period drama will showcase the never heard facets about the life of Khudiram Bose who was one of the youngest revolutionaries from Bengal.",
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BODRkOWNiMzAtYzc2Ny00MGUzLWJlZDMtZWFlNjllODc0NmE5XkEyXkFqcGdeQXVyMzM2MzQzNTQ@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ]
+        },
+        {
+            "imdbid": "tt12908138",
+            "genre": [
+                "Biography"
+            ],
+            "released": 2020,
+            "title": "Narayana",
+            "type": "movie",
+            "synopsis": "",
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZWQ1ODNlNTktOTI3MC00YzhjLTg0MTYtY2VjOTY1NDg5YzE3XkEyXkFqcGdeQXVyNTk1MTkzOTE@._V1_UY268_CR147,0,182,268_AL_.jpg"
+            ]
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BOTU3YTQxMmUtMzAzMi00ZTU5LWEyZTEtNzY2MWFhYWM3YzFkXkEyXkFqcGdeQXVyMTE4Nzc1Mjkw._V1_UY268_CR3,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Crime",
+                "Drama"
+            ],
+            "imdbid": "tt8520380",
+            "title": "Dhuusar",
+            "imdbrating": 8.9,
+            "released": 2019,
+            "type": "movie",
+            "synopsis": "Dhuusar chronicles three distinct phases of Shiladitya's life as he finds himself in the whirlwind of unfavourable situations and his obsession to escape from them. A mother, a jailer, a ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDBiZDJkYTEtYmY4OC00ZmZkLTliMGYtMmQxODUwNTE4Yzc1XkEyXkFqcGdeQXVyMzU3MjA2MjY@._V1_UY268_CR147,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt9789172",
+            "title": "Sarala Virala",
+            "imdbrating": null,
+            "released": 2019,
+            "type": "movie",
+            "synopsis": "'Sarala - Virala' is an insight into a simple man, who remains steadfast and true to his beliefs in the midst of awards, popularity, wealth, and the materialistic new-age lifestyle. L. ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNmUzMWY5ZDctZjU1Yi00OWM0LTllNDgtODNkOTk1YWE5YmJlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt9742362",
+            "title": "Mallesham",
+            "imdbrating": 8.4,
+            "released": 2019,
+            "type": "movie",
+            "synopsis": "The life of Padma Shri winner Chintakindi Mallesham, who invented the the Asu machine that processes yarn for sarees mechanically, is being recreated in this biopic."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMzQ0MTM5NTYtNmMyNS00ZTRjLTk3MWQtMzU0YWFlODIxMDVmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt9558612",
+            "title": "PM Narendra Modi",
+            "imdbrating": 3.2,
+            "released": 2019,
+            "type": "movie",
+            "synopsis": "Biography of India's Prime Minister Shri Narendra Modi."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZWQ4ZDgzNDUtY2FiZi00NDJmLTk1YTMtYjU1Y2I4ZjNmMzYxXkEyXkFqcGdeQXVyODA3NjgxODA@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt9557704",
+            "title": "Wo Jo Tha EK Messiah Maulana Azad",
+            "imdbrating": 7,
+            "released": 2019,
+            "type": "movie",
+            "synopsis": "The film is based on the life of Maulana Azad, the first education minister of independent India, who fought valiantly, devoting his whole life for the Hindu-Muslim unity."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMjg5YWRjOTgtMTkzYy00ODU5LTgxYmItMGYzNTkwZjg3NTI1XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR1,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt9390222",
+            "title": "72 Hours: Martyr Who Never Died",
+            "imdbrating": 5.6,
+            "released": 2019,
+            "type": "movie",
+            "synopsis": "The story is based on the life of Rifleman Jaswant Singh Rawat. 55 years ago during 1962 Indo-China war , when the destiny of war was pre decided, there stood a brave soldier from 4th ..."
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMzJjNDAwZmItMGI3NC00MjE0LWE5ZmItNWI3OTdhYjM0MGMxXkEyXkFqcGdeQXVyODkyOTc1NDU@._V1_UY268_CR43,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Comedy",
+                "Drama"
+            ],
+            "imdbid": "tt9085028",
+            "title": "Umakant Pandey Purush Ya",
+            "imdbrating": 7.4,
+            "released": 2019,
+            "synopsis": "It's a story of a really innocent guy from Allahabad, Somehow, he becomes doubtful about his sexuality and does many things suggested by his so-called well-wishers without thinking anything and gets stuck in more and more problems.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZTljMTA2YWUtYWI3ZC00YWQyLTg3NmYtODgzYzIxOWI4MGJiXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt9077528",
+            "title": "NTR: Mahanayakudu",
+            "imdbrating": 5.3,
+            "released": 2019,
+            "synopsis": "A follow up to NTR: Kathanayakudu which was based on N.T. Rama Rao's life and acting career. This movie will focus on his political career.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNTE0NWVmNjQtYmFkYy00ZDQ1LThhZWYtNTRiNzc0OWE2ZWQ1XkEyXkFqcGdeQXVyODk1MTM3Nzc@._V1_UY268_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography"
+            ],
+            "imdbid": "tt9054914",
+            "title": "Sarabha: Cry for Freedom",
+            "imdbrating": null,
+            "released": 2019,
+            "type": "movie",
+            "synopsis": ""
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNDBmMDQ1ZTMtN2RhOS00NzE2LTkwODMtZTMyNWQyOWNiOGRhXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt8108206",
+            "title": "Saand Ki Aankh",
+            "imdbrating": 7.7,
+            "released": 2019,
+            "synopsis": "Both over the age of 60, Chandro Tomar and Prakashi Tomar inspire other women in India when they demonstrate their expert sharpshooting skills.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYzYxODdmZDgtODhkNS00Zjk1LTgwOTUtYjhhYjgzYTZiNGY2XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt7884228",
+            "title": "NTR Kathanayakudu",
+            "imdbrating": 5.7,
+            "released": 2019,
+            "synopsis": "Based on the journey of the legendary Telugu actor, filmmaker and ex-Chief Minister Late Taraka Rama Rao Nandamuri.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BZmI3YzZlYzEtNzFiNy00ZmNlLWJkNTYtNWZmOWE2Zjc5YjFjXkEyXkFqcGdeQXVyMjM1NjkwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt7777196",
+            "title": "Thackeray",
+            "imdbrating": 5.3,
+            "released": 2019,
+            "synopsis": "From controversial cartoonist to powerful Mumbai politician, this biopic maps the meteoric rise of far-right Shiv Sena party founder, Bal Thackeray.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMWQzM2Y0ZDQtYjA1MS00YmUzLWFiMGQtZTliZWM1MWRiNDZhXkEyXkFqcGdeQXVyNTE2MzU4OTA@._V1_UY268_CR43,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt7485048",
+            "title": "Super 30",
+            "imdbrating": 8,
+            "released": 2019,
+            "synopsis": "Based on the life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNmJmYjU4ZmMtNTFjZC00MWYzLWFjNDktMzRmNGZhZDU0ZGU0XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR1,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt6986710",
+            "title": "The Accidental Prime Minister",
+            "imdbrating": 6,
+            "released": 2019,
+            "synopsis": "Explores Manmohan Singh's tenure as the Prime Minister of India and the kind of control he had over the cabinet and the country.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BNWU5NjgyMmEtYTBkZC00ZTBmLTg5YTQtM2FlMzg1Y2Y4NWI2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR2,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Action",
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt6903440",
+            "title": "Manikarnika: The Queen of Jhansi",
+            "imdbrating": 6.4,
+            "released": 2019,
+            "synopsis": "Story of Rani Lakshmibai, one of the leading figures of the Indian Rebellion of 1857 and her resistance to the British Rule.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BYmNhM2I0MWQtMzIwMC00ZWYxLTg4Y2EtZGVkNzQxYjMxNjRjXkEyXkFqcGdeQXVyMTM0NDg0MDM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Adventure",
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt5973036",
+            "title": "The Great Indian Escape",
+            "imdbrating": 7.3,
+            "released": 2019,
+            "synopsis": "From the pages of the Indian Air Force an riveting tale of true grit of Flt Lt Dilip Parulkar who inspired two more POW Pilots Flt Lt MS Grewal 'Garry' Flt Lt Harish Sinhji 'Harry' to ...",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMzYwZDUwZWEtMDM1Yi00ZjIzLWEzNWUtNjEwOGJlZDE5NGYzXkEyXkFqcGdeQXVyOTgyMTI1Nzc@._V1_UY268_CR16,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Documentary",
+                "Music"
+            ],
+            "imdbid": "tt10535080",
+            "title": "Gully Life: The Story of Divine",
+            "imdbrating": 9,
+            "released": 2019,
+            "synopsis": "The first-ever documentary on his life, Gully Life: The Story of DIVINE takes an in-depth look at how a young rapper from Mumbai became one of the most sought-after musicians in India and a global superstar - in a matter of a few years.",
+            "type": "movie"
+        },
+        {
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMGJiOGE0YmQtYWUyYi00YTYzLWEzZmUtYWM4NGU2ZDBjN2U3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR9,0,182,268_AL_.jpg"
+            ],
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "imdbid": "tt10530662",
+            "title": "Naan Petta Makan",
+            "imdbrating": 6.6,
+            "released": 2019,
+            "synopsis": "Young leader Abhimanyu from Maharaja's College in Kochi was one among millions, and the testimonials of his friends and well-wishers about him spoke volumes about his inner worth and the visionary that he was.",
+            "type": "movie"
+        }
+    ]
+}
