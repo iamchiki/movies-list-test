@@ -1,743 +1,573 @@
 {
-    "page": 1,
-    "results": [[
+  "page": 1,
+  "results": [
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZTYxNTUyOGMtNjNmZS00ODI3LTk2MjAtMTg0MzBiMTVjOTQ2XkEyXkFqcGdeQXVyOTEzMDAyMTI@._V1_UY268_CR10,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action"
-        ],
-        "imdbid": "tt9757156",
-        "title": "Deshveeran",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTYxNTUyOGMtNjNmZS00ODI3LTk2MjAtMTg0MzBiMTVjOTQ2XkEyXkFqcGdeQXVyOTEzMDAyMTI@._V1_UY268_CR10,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt9757156",
+      "title": "Deshveeran",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNjIwYmU5Y2ItNzJkMy00M2JiLWE5MTgtZDIwMjAyODkyM2Y0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt9637132",
-        "title": "Prithviraj",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "Akshay Kumar in and as the fearless king Prithviraj Chauhan."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjIwYmU5Y2ItNzJkMy00M2JiLWE5MTgtZDIwMjAyODkyM2Y0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt9637132",
+      "title": "Prithviraj",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "Akshay Kumar in and as the fearless king Prithviraj Chauhan."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYWMyOGZiZDQtZjk0Yy00NWI0LWIxZGMtMWYyZjk4NzVhOWJmXkEyXkFqcGdeQXVyMjQwMDkwNTQ@._V1_UY268_CR230,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt9466814",
-        "title": "Cobra",
-        "imdbrating": 8.9,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "A Psychological Thriller"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYWMyOGZiZDQtZjk0Yy00NWI0LWIxZGMtMWYyZjk4NzVhOWJmXkEyXkFqcGdeQXVyMjQwMDkwNTQ@._V1_UY268_CR230,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt9466814",
+      "title": "Cobra",
+      "imdbrating": 8.9,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "A Psychological Thriller"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BM2Y5MWRkNjQtOGM3NS00NzBmLTlkYjAtOTgyOGNlNGEwNWZlXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Adventure"
-        ],
-        "imdbid": "tt8426926",
-        "title": "Shamshera",
-        "imdbrating": 7.4,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "Set in the 1800s pre-Independence India, the film is an Indian adaptation of Howard Pyle's \"Merry Adventures of Robin Hood\"."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BM2Y5MWRkNjQtOGM3NS00NzBmLTlkYjAtOTgyOGNlNGEwNWZlXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure"],
+      "imdbid": "tt8426926",
+      "title": "Shamshera",
+      "imdbrating": 7.4,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "Set in the 1800s pre-Independence India, the film is an Indian adaptation of Howard Pyle's \"Merry Adventures of Robin Hood\"."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYTcwMmM4MDgtMWVmOS00ZjBhLTg2M2EtOTRjZTAxZjhlMTRjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR108,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Sci-Fi",
-            "Thriller"
-        ],
-        "imdbid": "tt7529298",
-        "title": "Attack",
-        "imdbrating": 7.1,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYTcwMmM4MDgtMWVmOS00ZjBhLTg2M2EtOTRjZTAxZjhlMTRjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR108,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "imdbid": "tt7529298",
+      "title": "Attack",
+      "imdbrating": 7.1,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZDJlOGEwMzYtZDE5Ni00MTA1LTkzYjEtNjkyNzExMzEzMzdmXkEyXkFqcGdeQXVyMjQwMDkwNTQ@._V1_UY268_CR7,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "imdbid": "tt6735802",
-        "title": "Dhruva Natchathiram",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "A New-York based spy network loses its head."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZDJlOGEwMzYtZDE5Ni00MTA1LTkzYjEtNjkyNzExMzEzMzdmXkEyXkFqcGdeQXVyMjQwMDkwNTQ@._V1_UY268_CR7,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt6735802",
+      "title": "Dhruva Natchathiram",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "A New-York based spy network loses its head."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNDQ2ZmFmZDgtMzM4OS00MzhlLTljOGEtNjU0ODY4NjY0NTkxXkEyXkFqcGdeQXVyNDA5NjQxNjQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Adventure"
-        ],
-        "imdbid": "tt6072150",
-        "title": "Combativo",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "Special anti terrorist force Commando Ahmad Ali takes on a daring mission to eliminate Rustam Group the most powerful criminal nexus of ruthless mercenaries and terror mafias in South Asia."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNDQ2ZmFmZDgtMzM4OS00MzhlLTljOGEtNjU0ODY4NjY0NTkxXkEyXkFqcGdeQXVyNDA5NjQxNjQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure"],
+      "imdbid": "tt6072150",
+      "title": "Combativo",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "Special anti terrorist force Commando Ahmad Ali takes on a daring mission to eliminate Rustam Group the most powerful criminal nexus of ruthless mercenaries and terror mafias in South Asia."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOWEyZTExMjctODlmMC00NzZlLWEzZjItMDAzMTM2YTViMWM3XkEyXkFqcGdeQXVyNjAyMjkzNzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Adventure",
-            "Thriller"
-        ],
-        "imdbid": "tt5735304",
-        "title": "Lincoln Road",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "After serving five years in the Peace Corps, Naomi returns home, only to find her family in danger."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOWEyZTExMjctODlmMC00NzZlLWEzZjItMDAzMTM2YTViMWM3XkEyXkFqcGdeQXVyNjAyMjkzNzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "Thriller"],
+      "imdbid": "tt5735304",
+      "title": "Lincoln Road",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "After serving five years in the Peace Corps, Naomi returns home, only to find her family in danger."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Family",
-            "Romance"
-        ],
-        "imdbid": "tt11603828",
-        "title": "Super Machi",
-        "imdbrating": 9.3,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Family", "Romance"],
+      "imdbid": "tt11603828",
+      "title": "Super Machi",
+      "imdbrating": 9.3,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYTU3MzhmNzgtNzc1OC00YzU0LWI1MTYtNGIzMDY0MTI3NTkyXkEyXkFqcGdeQXVyMTEwMzc3OTkw._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt11449482",
-        "title": "Ram",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYTU3MzhmNzgtNzc1OC00YzU0LWI1MTYtNGIzMDY0MTI3NTkyXkEyXkFqcGdeQXVyMTEwMzc3OTkw._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11449482",
+      "title": "Ram",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNDA3ZGM2ODktMGFhZi00NjY4LTg3MDAtNGQzMzg3ZmIxNWJkXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy",
-            "Drama"
-        ],
-        "imdbid": "tt11379988",
-        "title": "James",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNDA3ZGM2ODktMGFhZi00NjY4LTg3MDAtNGQzMzg3ZmIxNWJkXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Drama"],
+      "imdbid": "tt11379988",
+      "title": "James",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action"
-        ],
-        "imdbid": "tt11306518",
-        "title": "Hero",
-        "imdbrating": 8.8,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action"],
+      "imdbid": "tt11306518",
+      "title": "Hero",
+      "imdbrating": 8.8,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt10806040",
-        "title": "Valimai",
-        "imdbrating": 8,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt10806040",
+      "title": "Valimai",
+      "imdbrating": 8,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTM5Nzc2NDItYTdlZS00YThkLTlhNGItZGJkZDYyZmQyNTllXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt10698680",
-        "title": "K.G.F: Chapter 2",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) Has a new overlord now. Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTM5Nzc2NDItYTdlZS00YThkLTlhNGItZGJkZDYyZmQyNTllXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt10698680",
+      "title": "K.G.F: Chapter 2",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) Has a new overlord now. Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMmZjNTJmNjItMjliOS00ZjAxLWFjZWUtNjIwYmFlYTZhYmNiXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR57,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action"
-        ],
-        "imdbid": "tt10687220",
-        "title": "Nikamma",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMmZjNTJmNjItMjliOS00ZjAxLWFjZWUtNjIwYmFlYTZhYmNiXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR57,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt10687220",
+      "title": "Nikamma",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOWMxYWRjOGYtZjM1NS00Nzg1LTk3YTItOGIyOWMxMzhjODI3XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action"
-        ],
-        "imdbid": "tt10598156",
-        "title": "Dhaakad",
-        "imdbrating": 4.5,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "Kangana Ranaut is all set to make the Diwali of 2020 all the more 'Dhamakedaar' with her next film Dhaakad."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOWMxYWRjOGYtZjM1NS00Nzg1LTk3YTItOGIyOWMxMzhjODI3XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action"],
+      "imdbid": "tt10598156",
+      "title": "Dhaakad",
+      "imdbrating": 4.5,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "Kangana Ranaut is all set to make the Diwali of 2020 all the more 'Dhamakedaar' with her next film Dhaakad."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNDk4OWUxNDAtZDg3NC00MmI1LWEzYjItOGRiZDQwMzRhYmNmXkEyXkFqcGdeQXVyODk4NTI4NDA@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Musical",
-            "Romance"
-        ],
-        "imdbid": "tt10415494",
-        "title": "Ek Love Ya",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "Ek Love Ya is an upcoming Kannada movie directed by Prem. Rakshitha Prem is producing this movie which has debutante Raana playing the lead role. Touted to be a musical love story. Arjun Janya has scored the music for this movie."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNDk4OWUxNDAtZDg3NC00MmI1LWEzYjItOGRiZDQwMzRhYmNmXkEyXkFqcGdeQXVyODk4NTI4NDA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Musical", "Romance"],
+      "imdbid": "tt10415494",
+      "title": "Ek Love Ya",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "Ek Love Ya is an upcoming Kannada movie directed by Prem. Rakshitha Prem is producing this movie which has debutante Raana playing the lead role. Touted to be a musical love story. Arjun Janya has scored the music for this movie."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt10340562",
-        "title": "Etharkkum Thunindhavan",
-        "imdbrating": null,
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt10340562",
+      "title": "Etharkkum Thunindhavan",
+      "imdbrating": null,
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BM2I2MTE5ZmMtN2FkMy00MTRjLTg1N2ItZDNiMmU3OTI5Mzk4XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy",
-            "Crime"
-        ],
-        "imdbid": "tt10699086",
-        "title": "Bachchan Pandey",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "Remake of the 2014 film Veeram in which a kind-hearted villager takes down the enemies of his fiancee's father, to safeguard their family."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BM2I2MTE5ZmMtN2FkMy00MTRjLTg1N2ItZDNiMmU3OTI5Mzk4XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt10699086",
+      "title": "Bachchan Pandey",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "Remake of the 2014 film Veeram in which a kind-hearted villager takes down the enemies of his fiancee's father, to safeguard their family."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Comedy",
-            "Crime"
-        ],
-        "imdbid": "tt11301946",
-        "title": "Beast",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt11301946",
+      "title": "Beast",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt11489038",
-        "title": "Vaadivaasal",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt11489038",
+      "title": "Vaadivaasal",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYjg4MGM4OGQtYjYyMC00Y2ZiLTkxMmEtMWNmMGJlMzA4MmI1XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt11821912",
-        "title": "NTR 30",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjg4MGM4OGQtYjYyMC00Y2ZiLTkxMmEtMWNmMGJlMzA4MmI1XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt11821912",
+      "title": "NTR 30",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYjk5YTUyN2QtZjhkOS00ZjllLTg3ZDktNzBiNmM2YWVhNDA4XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Romance"
-        ],
-        "imdbid": "tt11873440",
-        "title": "Heropanti 2",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "Remake of 2012 Korean action movie Hoi-sa-won (2012)"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjk5YTUyN2QtZjhkOS00ZjllLTg3ZDktNzBiNmM2YWVhNDA4XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Romance"],
+      "imdbid": "tt11873440",
+      "title": "Heropanti 2",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "Remake of 2012 Korean action movie Hoi-sa-won (2012)"
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "imdbid": "tt11947158",
-        "title": "Ek Villain Returns",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt11947158",
+      "title": "Ek Villain Returns",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMGQxYmZiYzMtNWU5Yi00Njk1LTg1ZjktYmMxY2FlNTY2OWFiXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR16,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "imdbid": "tt6277462",
-        "title": "Brahmastra",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "First part of superhero trilogy."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMGQxYmZiYzMtNWU5Yi00Njk1LTg1ZjktYmMxY2FlNTY2OWFiXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR16,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "imdbid": "tt6277462",
+      "title": "Brahmastra",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "First part of superhero trilogy."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZWUxNTZmMmQtMWE1NC00MTBhLWFlNjktMGJiNTY0ZTg5NzRmXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt8178634",
-        "title": "RRR",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
-        "imdbrating": 8.9
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZWUxNTZmMmQtMWE1NC00MTBhLWFlNjktMGJiNTY0ZTg5NzRmXkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt8178634",
+      "title": "RRR",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920's.",
+      "imdbrating": 8.9
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMWRjZTM2NzItMjY5OC00NWEyLTg3NGItYjgwNDIwODNlMzJkXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy",
-            "Crime"
-        ],
-        "imdbid": "tt8907974",
-        "title": "Looop Lapeta",
-        "released": 2022,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMWRjZTM2NzItMjY5OC00NWEyLTg3NGItYjgwNDIwODNlMzJkXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt8907974",
+      "title": "Looop Lapeta",
+      "released": 2022,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTZmMjk4NDYtYTA0Yy00MmY1LTk3ZTAtZWU1NjU0ZDM4MjUwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama",
-            "Romance"
-        ],
-        "imdbid": "tt9760426",
-        "title": "Romantic",
-        "imdbrating": 4.9,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTZmMjk4NDYtYTA0Yy00MmY1LTk3ZTAtZWU1NjU0ZDM4MjUwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Romance"],
+      "imdbid": "tt9760426",
+      "title": "Romantic",
+      "imdbrating": 4.9,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZTNkM2YxYjEtOTQ5ZC00NjQ4LTkxODEtNTE4ZmRjZTQ2MzZmXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama",
-            "Romance"
-        ],
-        "imdbid": "tt9633480",
-        "title": "Uppena",
-        "imdbrating": 6.8,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTNkM2YxYjEtOTQ5ZC00NjQ4LTkxODEtNTE4ZmRjZTQ2MzZmXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Romance"],
+      "imdbid": "tt9633480",
+      "title": "Uppena",
+      "imdbrating": 6.8,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZjkzMDM1OTYtNThmYi00ZmRkLWE4MWEtMjdjNjNhNTMzOTM2XkEyXkFqcGdeQXVyOTU0ODcyNTY@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt9320226",
-        "title": "Yuvarathnaa",
-        "imdbrating": 6.7,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": "Best waited film in kannada Industry... One more industry hit film came from Puneethrajkumar Boss.... More then 150cr expected from this film....iam eagerly waiting for this film..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZjkzMDM1OTYtNThmYi00ZmRkLWE4MWEtMjdjNjNhNTMzOTM2XkEyXkFqcGdeQXVyOTU0ODcyNTY@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt9320226",
+      "title": "Yuvarathnaa",
+      "imdbrating": 6.7,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "Best waited film in kannada Industry... One more industry hit film came from Puneethrajkumar Boss.... More then 150cr expected from this film....iam eagerly waiting for this film..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMTZiMjk0OTctZTA0My00MjExLWE1MjUtMWNiNGU4MWZhMmE3XkEyXkFqcGdeQXVyNzAyMzcyODY@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt8302382",
-        "title": "Krack",
-        "imdbrating": 7.2,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMTZiMjk0OTctZTA0My00MjExLWE1MjUtMWNiNGU4MWZhMmE3XkEyXkFqcGdeQXVyNzAyMzcyODY@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt8302382",
+      "title": "Krack",
+      "imdbrating": 7.2,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMjQxMzE1YWItNzA0ZS00NDVhLWFhMzUtMzkyZTFmN2NlNjYwXkEyXkFqcGdeQXVyMTE0Mjc5NTQx._V1_UY268_CR194,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt8269248",
-        "title": "Vakeel Saab",
-        "imdbrating": 7.7,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMjQxMzE1YWItNzA0ZS00NDVhLWFhMzUtMzkyZTFmN2NlNjYwXkEyXkFqcGdeQXVyMTE0Mjc5NTQx._V1_UY268_CR194,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt8269248",
+      "title": "Vakeel Saab",
+      "imdbrating": 7.7,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZjU3OWZlYmItMTM0Yy00ZjlmLTg0YTUtMGUzY2EyZGVjNjMyXkEyXkFqcGdeQXVyNzQ3NDU1ODQ@._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama",
-            "Fantasy"
-        ],
-        "imdbid": "tt7822758",
-        "title": "Kaadan",
-        "imdbrating": 8,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": "Based on real life events of conservation of elephants ."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZjU3OWZlYmItMTM0Yy00ZjlmLTg0YTUtMGUzY2EyZGVjNjMyXkEyXkFqcGdeQXVyNzQ3NDU1ODQ@._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Fantasy"],
+      "imdbid": "tt7822758",
+      "title": "Kaadan",
+      "imdbrating": 8,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "Based on real life events of conservation of elephants ."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMjRlY2NlNDUtZWQ3Yi00MTA0LTliMDctNjhmNTg2Mjc2YThjXkEyXkFqcGdeQXVyNDQwMTY3ODc@._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama",
-            "Thriller"
-        ],
-        "imdbid": "tt3100046",
-        "title": "Squad",
-        "imdbrating": 5.4,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": "In the course of an action-packed battle royal of elite military forces, a small child forms an emotional bond with the reluctant guardian sent to protect her."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMjRlY2NlNDUtZWQ3Yi00MTA0LTliMDctNjhmNTg2Mjc2YThjXkEyXkFqcGdeQXVyNDQwMTY3ODc@._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt3100046",
+      "title": "Squad",
+      "imdbrating": 5.4,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "In the course of an action-packed battle royal of elite military forces, a small child forms an emotional bond with the reluctant guardian sent to protect her."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTQ3MTNmZjUtOGMyNC00YmIzLTkwYmMtOTNhMWRlNmQ1NGUzXkEyXkFqcGdeQXVyOTEyNTI2NTA@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy",
-            "Drama"
-        ],
-        "imdbid": "tt12293692",
-        "title": "Secret Pocketmaar",
-        "imdbrating": null,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": "Secret Pocketmaar is Crime based movie in hindi language Startcast - Ayush Kumar Upadhyay ,Rajpal yadav ,Deepak Verma,mushtak khan Ayush Kumar Upadhyay is as Secret Pocketmaar ( Ayush ) in ...\n                    See full synopsis"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTQ3MTNmZjUtOGMyNC00YmIzLTkwYmMtOTNhMWRlNmQ1NGUzXkEyXkFqcGdeQXVyOTEyNTI2NTA@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Drama"],
+      "imdbid": "tt12293692",
+      "title": "Secret Pocketmaar",
+      "imdbrating": null,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "Secret Pocketmaar is Crime based movie in hindi language Startcast - Ayush Kumar Upadhyay ,Rajpal yadav ,Deepak Verma,mushtak khan Ayush Kumar Upadhyay is as Secret Pocketmaar ( Ayush ) in ...\n                    See full synopsis"
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Fantasy"
-        ],
-        "imdbid": "tt12078076",
-        "title": "Bhajarangi 2",
-        "imdbrating": 7.6,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Fantasy"],
+      "imdbid": "tt12078076",
+      "title": "Bhajarangi 2",
+      "imdbrating": 7.6,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BM2RlMmE3OWYtOTk4MC00ZmU0LTg4NzEtMGQyOTVhOGM3MmE1XkEyXkFqcGdeQXVyMTE1MzAyMDE4._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "imdbid": "tt12032938",
-        "title": "Muddy",
-        "imdbrating": 8.5,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": "Muddy is an adventurous thrilling movie that has several breathtaking moves which was brilliantly done by our Artists without any dupe. The mud race is choreographed by the Director, Dr. Pragabhal."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BM2RlMmE3OWYtOTk4MC00ZmU0LTg4NzEtMGQyOTVhOGM3MmE1XkEyXkFqcGdeQXVyMTE1MzAyMDE4._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt12032938",
+      "title": "Muddy",
+      "imdbrating": 8.5,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "Muddy is an adventurous thrilling movie that has several breathtaking moves which was brilliantly done by our Artists without any dupe. The mud race is choreographed by the Director, Dr. Pragabhal."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYzE4MzBhOWYtNTg1OC00NjBkLWEzOGItMDJmMThlNzk4NGFlXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy"
-        ],
-        "imdbid": "tt11952760",
-        "title": "Alludu Adhurs",
-        "imdbrating": 3.2,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzE4MzBhOWYtNTg1OC00NjBkLWEzOGItMDJmMThlNzk4NGFlXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy"],
+      "imdbid": "tt11952760",
+      "title": "Alludu Adhurs",
+      "imdbrating": 3.2,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Thriller"
-        ],
-        "imdbid": "tt11905536",
-        "title": "Untitled Vardhan Ketkar Film",
-        "imdbrating": null,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": "Remake of sleeper hit film Thadam"
+      "imageurl": [],
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt11905536",
+      "title": "Untitled Vardhan Ketkar Film",
+      "imdbrating": null,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "Remake of sleeper hit film Thadam"
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt11803736",
-        "title": "Khaki",
-        "imdbrating": null,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt11803736",
+      "title": "Khaki",
+      "imdbrating": null,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt11773378",
-        "title": "Akhanda",
-        "imdbrating": 7.8,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt11773378",
+      "title": "Akhanda",
+      "imdbrating": 7.8,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZjU0YTU0N2ItYzJhOS00N2U2LTg4ODEtYWY1ODAzNTEzNjkxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy"
-        ],
-        "imdbid": "tt11718902",
-        "title": "Ajagajantharam",
-        "imdbrating": 8,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZjU0YTU0N2ItYzJhOS00N2U2LTg4ODEtYWY1ODAzNTEzNjkxXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy"],
+      "imdbid": "tt11718902",
+      "title": "Ajagajantharam",
+      "imdbrating": 8,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BY2MxODJjYzMtMjBkYy00ZjNmLWJiYjItNmIzOGJiMzk3YTEwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR11,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt11648514",
-        "title": "Narappa",
-        "imdbrating": 8.1,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BY2MxODJjYzMtMjBkYy00ZjNmLWJiYjItNmIzOGJiMzk3YTEwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR11,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt11648514",
+      "title": "Narappa",
+      "imdbrating": 8.1,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMDg4ZDA4YmQtZmU1NS00MzZjLTlkY2YtYTIzNmU4YjM4MjlkXkEyXkFqcGdeQXVyNDc4NDU5OTg@._V1_UY268_CR7,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama",
-            "Thriller"
-        ],
-        "imdbid": "tt11640108",
-        "title": "Mirugaa",
-        "imdbrating": 4.9,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": "The film revolves around a maneater tiger who has gone berzerk and is no attacking people in Iduppanai, Kotagiri. While the forest officials are searching for the tiger, strange events happen in the forest."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMDg4ZDA4YmQtZmU1NS00MzZjLTlkY2YtYTIzNmU4YjM4MjlkXkEyXkFqcGdeQXVyNDc4NDU5OTg@._V1_UY268_CR7,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt11640108",
+      "title": "Mirugaa",
+      "imdbrating": 4.9,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "The film revolves around a maneater tiger who has gone berzerk and is no attacking people in Iduppanai, Kotagiri. While the forest officials are searching for the tiger, strange events happen in the forest."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BY2E3NDZkYWUtNGFiOS00NTQ5LWE0NTEtYmQ2OTMwNmU3MzU3XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt11640072",
-        "title": "Thupparivaalan 2",
-        "imdbrating": null,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BY2E3NDZkYWUtNGFiOS00NTQ5LWE0NTEtYmQ2OTMwNmU3MzU3XkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11640072",
+      "title": "Thupparivaalan 2",
+      "imdbrating": null,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZTExNGU5ZjItNTU3Ni00NmM3LWI4OGQtODU4MjUyOTUyMTNhXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt11640022",
-        "title": "Chakra",
-        "imdbrating": 6.9,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTExNGU5ZjItNTU3Ni00NmM3LWI4OGQtODU4MjUyOTUyMTNhXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11640022",
+      "title": "Chakra",
+      "imdbrating": 6.9,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZDBjYTMxNzEtMTFiYi00ZTAyLThiZmQtY2NlN2M5MmI1ODcyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR16,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt11581174",
-        "title": "Karnan",
-        "imdbrating": 8.2,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZDBjYTMxNzEtMTFiYi00ZTAyLThiZmQtY2NlN2M5MmI1ODcyXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR16,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt11581174",
+      "title": "Karnan",
+      "imdbrating": 8.2,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZjRhNzJkYzYtODQ0Yi00NGQ1LThlN2UtZGI5NzcyZThiOWUxXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama",
-            "Sport"
-        ],
-        "imdbid": "tt11580944",
-        "title": "Seetimaarr",
-        "imdbrating": 5.4,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZjRhNzJkYzYtODQ0Yi00NGQ1LThlN2UtZGI5NzcyZThiOWUxXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama", "Sport"],
+      "imdbid": "tt11580944",
+      "title": "Seetimaarr",
+      "imdbrating": 5.4,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMjRmNmE5NmYtMGNkNS00YThkLWIzOGEtZDAyOGZlZWRlMjQ2XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Drama"
-        ],
-        "imdbid": "tt11580914",
-        "title": "Yaadhum Oore Yaavarum Kelir",
-        "imdbrating": null,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMjRmNmE5NmYtMGNkNS00YThkLWIzOGEtZDAyOGZlZWRlMjQ2XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt11580914",
+      "title": "Yaadhum Oore Yaavarum Kelir",
+      "imdbrating": null,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Action",
-            "Drama",
-            "Sport"
-        ],
-        "imdbid": "tt11580854",
-        "title": "Sarpatta Parambarai",
-        "imdbrating": 8.7,
-        "released": 2021,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Action", "Drama", "Sport"],
+      "imdbid": "tt11580854",
+      "title": "Sarpatta Parambarai",
+      "imdbrating": 8.7,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
     }
-]}
+  ]
+}

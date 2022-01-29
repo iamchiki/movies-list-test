@@ -1,691 +1,577 @@
 {
-    "page": 1,
-    "results": [[
+  "page": 1,
+  "results": [
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZTdkYzFkNGMtZjFhMi00MWY2LTlmMWQtMmEwOGUxMTkzMzI1XkEyXkFqcGdeQXVyNjkwMTYyOTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Biography",
-            "Documentary"
-        ],
-        "imdbid": "tt8946762",
-        "title": "Admitted",
-        "imdbrating": 9,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Admitted is a a striking, uplifting journey of five decades to become the first Transgender student of Panjab University."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTdkYzFkNGMtZjFhMi00MWY2LTlmMWQtMmEwOGUxMTkzMzI1XkEyXkFqcGdeQXVyNjkwMTYyOTQ@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Biography", "Documentary"],
+      "imdbid": "tt8946762",
+      "title": "Admitted",
+      "imdbrating": 9,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Admitted is a a striking, uplifting journey of five decades to become the first Transgender student of Panjab University."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZmViMDI0ZjItZDkwYi00NGM5LWFkMzMtYzIwOTAxNDkyZWQyXkEyXkFqcGdeQXVyODgxMDAxMjY@._V1_UY268_CR14,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt5788408",
-        "title": "The End and the Means",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "From a snake charmer to a welder, from a weaver to an obstetrician, the inhabitants of the holy city of Varanasi are striving for survival, and transform and ennoble themselves in the process."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZmViMDI0ZjItZDkwYi00NGM5LWFkMzMtYzIwOTAxNDkyZWQyXkEyXkFqcGdeQXVyODgxMDAxMjY@._V1_UY268_CR14,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt5788408",
+      "title": "The End and the Means",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "From a snake charmer to a welder, from a weaver to an obstetrician, the inhabitants of the holy city of Varanasi are striving for survival, and transform and ennoble themselves in the process."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt12013130",
-        "title": "Ghar Ki Murgi",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Seema a devoted house wife whose day starts early morning by making her children ready to school.preparing her husband's Tiffin and taking care of her in laws and doing all household ..."
+      "imageurl": [],
+      "genre": ["Documentary"],
+      "imdbid": "tt12013130",
+      "title": "Ghar Ki Murgi",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Seema a devoted house wife whose day starts early morning by making her children ready to school.preparing her husband's Tiffin and taking care of her in laws and doing all household ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMGY5MWMxMzAtY2I1OC00ZjU0LWFkMmMtM2MyYjA3NDg3MzE4XkEyXkFqcGdeQXVyODY0OTIwMTg@._V1_UY268_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11613282",
-        "title": "The Last Sketch",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMGY5MWMxMzAtY2I1OC00ZjU0LWFkMmMtM2MyYjA3NDg3MzE4XkEyXkFqcGdeQXVyODY0OTIwMTg@._V1_UY268_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11613282",
+      "title": "The Last Sketch",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BN2JmZmYzYmYtMmY1Mi00M2YxLWE1OGMtMGIxMDJhNTEwZDk3XkEyXkFqcGdeQXVyNDkxOTY0MTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11330536",
-        "title": "Kids and Glory",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BN2JmZmYzYmYtMmY1Mi00M2YxLWE1OGMtMGIxMDJhNTEwZDk3XkEyXkFqcGdeQXVyNDkxOTY0MTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11330536",
+      "title": "Kids and Glory",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMTg5YzhjZGUtYzFmMi00YzQzLTgyNGEtZjEzYWM2MTQ4MTk5XkEyXkFqcGdeQXVyMTM0MjE4MQ@@._V1_UY268_CR1,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11101612",
-        "title": "Journey to Cure",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMTg5YzhjZGUtYzFmMi00YzQzLTgyNGEtZjEzYWM2MTQ4MTk5XkEyXkFqcGdeQXVyMTM0MjE4MQ@@._V1_UY268_CR1,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11101612",
+      "title": "Journey to Cure",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNjIyNTEyNTctODkxNy00Y2NiLWE5NmYtNTRkNWNhNmQ1MTZmXkEyXkFqcGdeQXVyMTAzMjkwMDQ2._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary",
-            "Musical"
-        ],
-        "imdbid": "tt10436314",
-        "title": "Shut up Sona",
-        "imdbrating": 7.1,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "SHUT UP SONA is a tongue-in-cheek take at a feisty female singer's unrelenting fight for an equal space in modern day India, a country deeply uncomfortable with her emancipation."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjIyNTEyNTctODkxNy00Y2NiLWE5NmYtNTRkNWNhNmQ1MTZmXkEyXkFqcGdeQXVyMTAzMjkwMDQ2._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary", "Musical"],
+      "imdbid": "tt10436314",
+      "title": "Shut up Sona",
+      "imdbrating": 7.1,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "SHUT UP SONA is a tongue-in-cheek take at a feisty female singer's unrelenting fight for an equal space in modern day India, a country deeply uncomfortable with her emancipation."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNzk5ZWYyNTctMTNjMy00YTFlLWEyM2UtOGQ0ZDQ4NmNlMmJmXkEyXkFqcGdeQXVyODUyMzMyNzA@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt7927666",
-        "title": "Why We Cycle",
-        "imdbrating": 6.9,
-        "released": 2020,
-        "synopsis": "There are more bicycles than people in the Netherlands. The Dutch don't seem care about what special of bike culture they have. Why we cycle invites regular cyclists and scientists from all...",
-        "type": "tvMovie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNzk5ZWYyNTctMTNjMy00YTFlLWEyM2UtOGQ0ZDQ4NmNlMmJmXkEyXkFqcGdeQXVyODUyMzMyNzA@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt7927666",
+      "title": "Why We Cycle",
+      "imdbrating": 6.9,
+      "released": 2020,
+      "synopsis": "There are more bicycles than people in the Netherlands. The Dutch don't seem care about what special of bike culture they have. Why we cycle invites regular cyclists and scientists from all...",
+      "type": "tvMovie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZmRhOGY4ZGQtNWFmYi00ZDMyLWIwZjItZDk5MzIzMzc5ZTk3XkEyXkFqcGdeQXVyMzEyOTAxNTE@._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary",
-            "Drama"
-        ],
-        "imdbid": "tt3829958",
-        "title": "Moon on the Man",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "An inquiry into the nature of man's reality."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZmRhOGY4ZGQtNWFmYi00ZDMyLWIwZjItZDk5MzIzMzc5ZTk3XkEyXkFqcGdeQXVyMzEyOTAxNTE@._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary", "Drama"],
+      "imdbid": "tt3829958",
+      "title": "Moon on the Man",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "An inquiry into the nature of man's reality."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BODYyYzhlZDYtOTAyNi00MGY2LWJlOWItYTkyODY4MjlkMDg2XkEyXkFqcGdeQXVyNjAyMzMzNjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt12402646",
-        "title": "Uthenge Hum - We will Rise",
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "A silent nation caught in a time we have never experienced before. The world's most populated democracy, is captive before an unseen threat, This is a time in the history of post-independence India, WE WILL NEVER FORGET."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BODYyYzhlZDYtOTAyNi00MGY2LWJlOWItYTkyODY4MjlkMDg2XkEyXkFqcGdeQXVyNjAyMzMzNjA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt12402646",
+      "title": "Uthenge Hum - We will Rise",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A silent nation caught in a time we have never experienced before. The world's most populated democracy, is captive before an unseen threat, This is a time in the history of post-independence India, WE WILL NEVER FORGET."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYTgyYjRkZjUtODViYy00NWRiLWI1NmItNjc4YTc5YjQwNzE4XkEyXkFqcGdeQXVyNTkzMTU3OTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt12563570",
-        "title": "Footloose: A Story of Belonging",
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Minorities from Pakistan and Myanmar came to India to save their lives. They had heard that Indian is a secular country where there is no religious discrimination. But, in the last few ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYTgyYjRkZjUtODViYy00NWRiLWI1NmItNjc4YTc5YjQwNzE4XkEyXkFqcGdeQXVyNTkzMTU3OTc@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt12563570",
+      "title": "Footloose: A Story of Belonging",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Minorities from Pakistan and Myanmar came to India to save their lives. They had heard that Indian is a secular country where there is no religious discrimination. But, in the last few ..."
     },
     {
-        "imdbid": "tt12799532",
-        "genre": [
-            "Documentary"
-        ],
-        "released": 2020,
-        "title": "Glimpse of Bihar Mahila Udyog Mela",
-        "type": "movie",
-        "synopsis": "",
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZmVhNTNhMTktZWFhNS00OTlhLTkwZDYtOTg3NzM4MWY2MGQwXkEyXkFqcGdeQXVyMTAzMDA3MTg5._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ]
+      "imdbid": "tt12799532",
+      "genre": ["Documentary"],
+      "released": 2020,
+      "title": "Glimpse of Bihar Mahila Udyog Mela",
+      "type": "movie",
+      "synopsis": "",
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZmVhNTNhMTktZWFhNS00OTlhLTkwZDYtOTg3NzM4MWY2MGQwXkEyXkFqcGdeQXVyMTAzMDA3MTg5._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ]
     },
     {
-        "imdbid": "tt12841428",
-        "genre": [
-            "Documentary"
-        ],
-        "released": 2020,
-        "title": "A Rifle and a Bag",
-        "type": "movie",
-        "synopsis": "",
-        "imdbrating": 6.4
+      "imdbid": "tt12841428",
+      "genre": ["Documentary"],
+      "released": 2020,
+      "title": "A Rifle and a Bag",
+      "type": "movie",
+      "synopsis": "",
+      "imdbrating": 6.4
     },
     {
-        "imdbid": "tt9846650",
-        "genre": [
-            "Documentary",
-            "Sci-Fi"
-        ],
-        "released": 2020,
-        "title": "Thrive II: This is What it Takes",
-        "type": "movie",
-        "synopsis": "THRIVE II: This is What it Takes brings viewers behind the scenes with the people and innovations that have the power to transform life for everyone. Follow a journey across the globe ...",
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BODk3Y2U1MzUtNmY5ZC00M2E1LTk4YmUtZWJjODMyMDgxZjVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "imdbrating": 7.9
+      "imdbid": "tt9846650",
+      "genre": ["Documentary", "Sci-Fi"],
+      "released": 2020,
+      "title": "Thrive II: This is What it Takes",
+      "type": "movie",
+      "synopsis": "THRIVE II: This is What it Takes brings viewers behind the scenes with the people and innovations that have the power to transform life for everyone. Follow a journey across the globe ...",
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BODk3Y2U1MzUtNmY5ZC00M2E1LTk4YmUtZWJjODMyMDgxZjVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "imdbrating": 7.9
     },
     {
-        "imdbid": "tt12952630",
-        "genre": [
-            "Documentary"
-        ],
-        "released": 2020,
-        "title": "Green Bappa",
-        "type": "movie",
-        "synopsis": ""
+      "imdbid": "tt12952630",
+      "genre": ["Documentary"],
+      "released": 2020,
+      "title": "Green Bappa",
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZTkxY2VhNTgtMDhhYi00MTI1LWFjZjktODYzNzliNTQ4ZDc3XkEyXkFqcGdeQXVyMTE3NjQ2MjAw._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary",
-            "Family",
-            "History"
-        ],
-        "imdbid": "tt9058890",
-        "title": "Sindhustan",
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Sindhustan is the story of the largest migration of a culture in history told through ink (tattoos). NOW STREAMING WORLDWIDE. NORTH AMERICA ON AMAZON PRIME/SINDHUSTAN AND THE REST OF THE WORLD ON MOVIESAINTS/SINDHUSTAN",
-        "imdbrating": 9.2
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTkxY2VhNTgtMDhhYi00MTI1LWFjZjktODYzNzliNTQ4ZDc3XkEyXkFqcGdeQXVyMTE3NjQ2MjAw._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary", "Family", "History"],
+      "imdbid": "tt9058890",
+      "title": "Sindhustan",
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Sindhustan is the story of the largest migration of a culture in history told through ink (tattoos). NOW STREAMING WORLDWIDE. NORTH AMERICA ON AMAZON PRIME/SINDHUSTAN AND THE REST OF THE WORLD ON MOVIESAINTS/SINDHUSTAN",
+      "imdbrating": 9.2
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9742298",
-        "title": "Dwarkadhish - Kingdom of Krishna",
-        "imdbrating": 9.4,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Documentary"],
+      "imdbid": "tt9742298",
+      "title": "Dwarkadhish - Kingdom of Krishna",
+      "imdbrating": 9.4,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9742210",
-        "title": "Mumbai - City of Ganesha",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Documentary"],
+      "imdbid": "tt9742210",
+      "title": "Mumbai - City of Ganesha",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTg4NTc1YWEtNTBjZC00ZTNhLWFjNjUtNTJhZjI0N2I0YTYxXkEyXkFqcGdeQXVyNjYxNTIzMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9206162",
-        "title": "Children of Bal Ashram",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "What happens after the raid, when terrified child slaves are rescued from criminal employers? At Bal Ashram, Nobel Peace Prize winner Kailash Satyarthi and his wife Sumedha provide a home ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTg4NTc1YWEtNTBjZC00ZTNhLWFjNjUtNTJhZjI0N2I0YTYxXkEyXkFqcGdeQXVyNjYxNTIzMjg@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9206162",
+      "title": "Children of Bal Ashram",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "What happens after the raid, when terrified child slaves are rescued from criminal employers? At Bal Ashram, Nobel Peace Prize winner Kailash Satyarthi and his wife Sumedha provide a home ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMmQ1MzE1YTQtYzNkNC00ODNhLWIxYWMtZGEyZWE0ZjkwZjUyXkEyXkFqcGdeQXVyNDY0ODc3OTQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9129364",
-        "title": "Ohne Bekenntnis",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMmQ1MzE1YTQtYzNkNC00ODNhLWIxYWMtZGEyZWE0ZjkwZjUyXkEyXkFqcGdeQXVyNDY0ODc3OTQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9129364",
+      "title": "Ohne Bekenntnis",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTJmZjJlM2UtNTQ4OC00MjZlLTg4ZjctNDUyNTVlY2Y1MGJhXkEyXkFqcGdeQXVyMjY2MDUzMzQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9074318",
-        "title": "Son Rise",
-        "imdbrating": 8.1,
-        "released": 2019,
-        "synopsis": "SON RISE is filmed in the strongly patriarchal state of Haryana, bordering India's capital, New Delhi. Illegal, yet rampant female foeticide has led to the eerie absence of girls in ...",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTJmZjJlM2UtNTQ4OC00MjZlLTg4ZjctNDUyNTVlY2Y1MGJhXkEyXkFqcGdeQXVyMjY2MDUzMzQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9074318",
+      "title": "Son Rise",
+      "imdbrating": 8.1,
+      "released": 2019,
+      "synopsis": "SON RISE is filmed in the strongly patriarchal state of Haryana, bordering India's capital, New Delhi. Illegal, yet rampant female foeticide has led to the eerie absence of girls in ...",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNWM0NzVmYTMtNzRmNy00MDM5LTg2ODctYzNjYzgwYjdkYjNkXkEyXkFqcGdeQXVyOTA0OTE1NzA@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary",
-            "History"
-        ],
-        "imdbid": "tt8819216",
-        "title": "The Watson's Hotel",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "A tiny cosmos in a building, where colonial heritage, film history and today's India meet."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNWM0NzVmYTMtNzRmNy00MDM5LTg2ODctYzNjYzgwYjdkYjNkXkEyXkFqcGdeQXVyOTA0OTE1NzA@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary", "History"],
+      "imdbid": "tt8819216",
+      "title": "The Watson's Hotel",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "A tiny cosmos in a building, where colonial heritage, film history and today's India meet."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNmI1YTY4ODItNWRiOC00ZDMzLTg1ZjQtZGI0ODIwNTU0MDBlXkEyXkFqcGdeQXVyMjA2NzE4NDY@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt8357692",
-        "title": "God Children",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "In rural villages of India, a child born with a specific birth defect may be transformed overnight into a Hindu God becoming a beacon of hope. One boy never relished in being seen as a ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNmI1YTY4ODItNWRiOC00ZDMzLTg1ZjQtZGI0ODIwNTU0MDBlXkEyXkFqcGdeQXVyMjA2NzE4NDY@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt8357692",
+      "title": "God Children",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "In rural villages of India, a child born with a specific birth defect may be transformed overnight into a Hindu God becoming a beacon of hope. One boy never relished in being seen as a ..."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt5959588",
-        "title": "Abhishek and the Marriage",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Abhishek and the marriage (WT) is a documentary movie about the young Indian ABHISHEK (37), who does not want to get married and for his family that is a huge problem. Abhishek is designing..."
+      "imageurl": [],
+      "genre": ["Documentary"],
+      "imdbid": "tt5959588",
+      "title": "Abhishek and the Marriage",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Abhishek and the marriage (WT) is a documentary movie about the young Indian ABHISHEK (37), who does not want to get married and for his family that is a huge problem. Abhishek is designing..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMjQ5MjU0OGQtZjFlNi00ZDA5LTg3MTUtOWZlOGI1Y2E4MmE3XkEyXkFqcGdeQXVyMzgyMjA5Nzk@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt12084592",
-        "title": "Strangers",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Four strangers, who would never meet in real life, start a dialogue and draw an intimate portrait of an Indian society in turbulent times."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMjQ5MjU0OGQtZjFlNi00ZDA5LTg3MTUtOWZlOGI1Y2E4MmE3XkEyXkFqcGdeQXVyMzgyMjA5Nzk@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt12084592",
+      "title": "Strangers",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Four strangers, who would never meet in real life, start a dialogue and draw an intimate portrait of an Indian society in turbulent times."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BM2VmNGM1ZDMtYTI1MS00ZTgxLWI3YTQtNWIzZmE0NDdlNDlmXkEyXkFqcGdeQXVyMTM0NDU5OTg@._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11777718",
-        "title": "Samudra Manthan",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "At Kumbh Mela, the world's largest congregation of religious pilgrims, a troupe of theatre actors stage a play based on the origin myth of Hinduism - the churning of the cosmic ocean."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BM2VmNGM1ZDMtYTI1MS00ZTgxLWI3YTQtNWIzZmE0NDdlNDlmXkEyXkFqcGdeQXVyMTM0NDU5OTg@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11777718",
+      "title": "Samudra Manthan",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "At Kumbh Mela, the world's largest congregation of religious pilgrims, a troupe of theatre actors stage a play based on the origin myth of Hinduism - the churning of the cosmic ocean."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZWVhN2Q0MTMtMDhhNy00MTdiLTg3Y2ItNDIyNzQwYzNhNDI5XkEyXkFqcGdeQXVyODYxMTIwOTY@._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11466850",
-        "title": "Luc Durand Leaving Delhi",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "An old Canadian architect returns to Delhi where he started his career fifty years ago. A new journey begins. From Montreal to Geneva, from New Delhi to Chandigarh, the amazing life of a ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZWVhN2Q0MTMtMDhhNy00MTdiLTg3Y2ItNDIyNzQwYzNhNDI5XkEyXkFqcGdeQXVyODYxMTIwOTY@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11466850",
+      "title": "Luc Durand Leaving Delhi",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "An old Canadian architect returns to Delhi where he started his career fifty years ago. A new journey begins. From Montreal to Geneva, from New Delhi to Chandigarh, the amazing life of a ..."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11269896",
-        "title": "Notes on Guler",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Documentary"],
+      "imdbid": "tt11269896",
+      "title": "Notes on Guler",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNTc2NWM3MjktOTBjMy00ZTU0LWI1OTMtNDg0NWY0Yjc2NTk5XkEyXkFqcGdeQXVyMjAzNzg5NTY@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11232352",
-        "title": "Feel at Home. Glasgow",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNTc2NWM3MjktOTBjMy00ZTU0LWI1OTMtNDg0NWY0Yjc2NTk5XkEyXkFqcGdeQXVyMjAzNzg5NTY@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11232352",
+      "title": "Feel at Home. Glasgow",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZjI1MGEwMjctNjZmMC00MjZiLWJhNjktNjQxM2EzOTA5NzQxXkEyXkFqcGdeQXVyMzUwNDgzNzU@._V1_UY268_CR109,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11225392",
-        "title": "Where Do the Children Play?",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "An expression of solidarity with Bhopal gas victims, survivors of one of the largest industrial disasters, in their ongoing struggle for justice."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZjI1MGEwMjctNjZmMC00MjZiLWJhNjktNjQxM2EzOTA5NzQxXkEyXkFqcGdeQXVyMzUwNDgzNzU@._V1_UY268_CR109,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11225392",
+      "title": "Where Do the Children Play?",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "An expression of solidarity with Bhopal gas victims, survivors of one of the largest industrial disasters, in their ongoing struggle for justice."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BM2EwMjllNzktZmFmNi00YjgxLWFiY2YtZDU1MDk5MjA4YzUyXkEyXkFqcGdeQXVyMTY3MDc4MjI@._V1_UY268_CR87,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11178478",
-        "title": "Indian Space Dreams",
-        "imdbrating": 7.9,
-        "released": 2019,
-        "synopsis": "Space scientists in Mumbai dream of launching the country's first astronomical satellite. Meanwhile the children living next door to the Space Centre have dreams of their own.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BM2EwMjllNzktZmFmNi00YjgxLWFiY2YtZDU1MDk5MjA4YzUyXkEyXkFqcGdeQXVyMTY3MDc4MjI@._V1_UY268_CR87,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11178478",
+      "title": "Indian Space Dreams",
+      "imdbrating": 7.9,
+      "released": 2019,
+      "synopsis": "Space scientists in Mumbai dream of launching the country's first astronomical satellite. Meanwhile the children living next door to the Space Centre have dreams of their own.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZThjYzI2YzYtMWNiMS00NWQ0LTlkOTEtNGNlZTQ2NjE5YWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UY268_CR58,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt11027122",
-        "title": "But Beautiful",
-        "imdbrating": 7,
-        "released": 2019,
-        "synopsis": "",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZThjYzI2YzYtMWNiMS00NWQ0LTlkOTEtNGNlZTQ2NjE5YWJiXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UY268_CR58,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt11027122",
+      "title": "But Beautiful",
+      "imdbrating": 7,
+      "released": 2019,
+      "synopsis": "",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMTQ2NzU3YjItYTlhZC00OTI5LWI5YTItZjA4NWFiNzk0NGNiXkEyXkFqcGdeQXVyMTA4ODk0Nzg2._V1_UY268_CR146,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt10955384",
-        "title": "Mahakaleshwar - Legends of Shiva",
-        "imdbrating": 9.4,
-        "released": 2019,
-        "synopsis": "True stories about mahakaleshwar a form of lord Shiva .about the city Ujjain",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMTQ2NzU3YjItYTlhZC00OTI5LWI5YTItZjA4NWFiNzk0NGNiXkEyXkFqcGdeQXVyMTA4ODk0Nzg2._V1_UY268_CR146,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt10955384",
+      "title": "Mahakaleshwar - Legends of Shiva",
+      "imdbrating": 9.4,
+      "released": 2019,
+      "synopsis": "True stories about mahakaleshwar a form of lord Shiva .about the city Ujjain",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZTU0YTE3OTAtNDQ5Ny00OGU5LTg4NTUtMmI3NjRhZWNiMmI5XkEyXkFqcGdeQXVyMTA1NzU3MDc4._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt10572912",
-        "title": "In Search of Bidesia",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "In Search of Bidesia is a musical documentary on Bhojpuri folk music that connects the history of indentured labour migration from the states of Uttar Pradesh and Bihar to the last living ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTU0YTE3OTAtNDQ5Ny00OGU5LTg4NTUtMmI3NjRhZWNiMmI5XkEyXkFqcGdeQXVyMTA1NzU3MDc4._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt10572912",
+      "title": "In Search of Bidesia",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "In Search of Bidesia is a musical documentary on Bhojpuri folk music that connects the history of indentured labour migration from the states of Uttar Pradesh and Bihar to the last living ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMzYwZDUwZWEtMDM1Yi00ZjIzLWEzNWUtNjEwOGJlZDE5NGYzXkEyXkFqcGdeQXVyOTgyMTI1Nzc@._V1_UY268_CR16,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Biography",
-            "Documentary",
-            "Music"
-        ],
-        "imdbid": "tt10535080",
-        "title": "Gully Life: The Story of Divine",
-        "imdbrating": 9,
-        "released": 2019,
-        "synopsis": "The first-ever documentary on his life, Gully Life: The Story of DIVINE takes an in-depth look at how a young rapper from Mumbai became one of the most sought-after musicians in India and a global superstar - in a matter of a few years.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMzYwZDUwZWEtMDM1Yi00ZjIzLWEzNWUtNjEwOGJlZDE5NGYzXkEyXkFqcGdeQXVyOTgyMTI1Nzc@._V1_UY268_CR16,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Biography", "Documentary", "Music"],
+      "imdbid": "tt10535080",
+      "title": "Gully Life: The Story of Divine",
+      "imdbrating": 9,
+      "released": 2019,
+      "synopsis": "The first-ever documentary on his life, Gully Life: The Story of DIVINE takes an in-depth look at how a young rapper from Mumbai became one of the most sought-after musicians in India and a global superstar - in a matter of a few years.",
+      "type": "movie"
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary",
-            "Drama",
-            "Sport"
-        ],
-        "imdbid": "tt10415044",
-        "title": "The Battle of Cricket",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "A Feature length Docu Drama that captures Cricket's on and off field rivalry right from 1978 to 2019 analyzing India's six wins and Pakistan's six defeats through the stormy yet emotional relationship of two friends."
+      "imageurl": [],
+      "genre": ["Documentary", "Drama", "Sport"],
+      "imdbid": "tt10415044",
+      "title": "The Battle of Cricket",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "A Feature length Docu Drama that captures Cricket's on and off field rivalry right from 1978 to 2019 analyzing India's six wins and Pakistan's six defeats through the stormy yet emotional relationship of two friends."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary",
-            "History"
-        ],
-        "imdbid": "tt10300800",
-        "title": "The Boro: Fight for Identity",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "The idea of making this film came up when the print and electronic media besides some of the intellectuals in India irresponsibly crafted the terms 'Bodo Militants', 'Bodo Terrorists', '..."
+      "imageurl": [],
+      "genre": ["Documentary", "History"],
+      "imdbid": "tt10300800",
+      "title": "The Boro: Fight for Identity",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "The idea of making this film came up when the print and electronic media besides some of the intellectuals in India irresponsibly crafted the terms 'Bodo Militants', 'Bodo Terrorists', '..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMTAzZDk3ZDEtNGQyOS00ZDZmLWJhZmMtYzZlNjJjYzM1ZDFjXkEyXkFqcGdeQXVyODE2NjcyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt10263296",
-        "title": "Mr. Toilet: The World's #2 Man",
-        "imdbrating": 7.3,
-        "released": 2019,
-        "synopsis": "Jack Sim, aka \"Mr. Toilet,\" is a crusader for global sanitation. Born in the Singapore slums, Sim knows firsthand the agonies of not having a proper loo. Now he's dedicating his life to a crisis no one dares talk about.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMTAzZDk3ZDEtNGQyOS00ZDZmLWJhZmMtYzZlNjJjYzM1ZDFjXkEyXkFqcGdeQXVyODE2NjcyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt10263296",
+      "title": "Mr. Toilet: The World's #2 Man",
+      "imdbrating": 7.3,
+      "released": 2019,
+      "synopsis": "Jack Sim, aka \"Mr. Toilet,\" is a crusader for global sanitation. Born in the Singapore slums, Sim knows firsthand the agonies of not having a proper loo. Now he's dedicating his life to a crisis no one dares talk about.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYjM5ZTFkZjgtMjNjZi00NjUyLWEzNTctMGFhMjY5OTJjMDIwXkEyXkFqcGdeQXVyMTE3NTkxNTk@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt10024036",
-        "title": "Satyarthi",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Kailash Satyarthi has spent his lifetime rescuing kids from slavery, and was awarded the Nobel Peace Prize for his work in 2014. The film looks at his journey and goes behind the scenes to ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjM5ZTFkZjgtMjNjZi00NjUyLWEzNTctMGFhMjY5OTJjMDIwXkEyXkFqcGdeQXVyMTE3NTkxNTk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt10024036",
+      "title": "Satyarthi",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Kailash Satyarthi has spent his lifetime rescuing kids from slavery, and was awarded the Nobel Peace Prize for his work in 2014. The film looks at his journey and goes behind the scenes to ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYjQ0MThlMWYtMTQ0OS00MThhLTg0ZmUtYzZjYzdhOTBmZjBkXkEyXkFqcGdeQXVyMTE3NTkxNTk@._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt12332814",
-        "title": "Making India Accessible",
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "When the Indian Prime Minister launched the Accessible India Campaign in December 2015, it was first such step that any Central government had ever taken. Three years hence, the levels of ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjQ0MThlMWYtMTQ0OS00MThhLTg0ZmUtYzZjYzdhOTBmZjBkXkEyXkFqcGdeQXVyMTE3NTkxNTk@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt12332814",
+      "title": "Making India Accessible",
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "When the Indian Prime Minister launched the Accessible India Campaign in December 2015, it was first such step that any Central government had ever taken. Three years hence, the levels of ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZWQ1NzcwYjEtMzNkNy00Y2RlLTg5MGEtMWQzNTExYjM4OTE2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9663460",
-        "title": "Unbroken",
-        "imdbrating": 8.8,
-        "released": 2019,
-        "type": "tvMovie",
-        "synopsis": "The movie traces three real-life incidents that took place in '80s, 90s and 2000s respectively through the stories titled 'Orphan and the Convict', 'The Farmer and the Nun' and 'The Terror and the Mom'."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZWQ1NzcwYjEtMzNkNy00Y2RlLTg5MGEtMWQzNTExYjM4OTE2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9663460",
+      "title": "Unbroken",
+      "imdbrating": 8.8,
+      "released": 2019,
+      "type": "tvMovie",
+      "synopsis": "The movie traces three real-life incidents that took place in '80s, 90s and 2000s respectively through the stories titled 'Orphan and the Convict', 'The Farmer and the Nun' and 'The Terror and the Mom'."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMDhkZTMwMzctNzhhOS00OTdlLTk0NTItZjM0Y2I2Y2FhMTgzXkEyXkFqcGdeQXVyMjEyNDA2OTg@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary",
-            "Drama",
-            "Family"
-        ],
-        "imdbid": "tt7253358",
-        "title": "Mrityubhoj: The Death Feast",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "tvMovie",
-        "synopsis": "Hindus celebrate 'Mrityubhoj', or the Death Feast, on the 13th day after a cremation as a remembrance for the departed soul, and also as a ritual to help the soul find heavenly abode. ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMDhkZTMwMzctNzhhOS00OTdlLTk0NTItZjM0Y2I2Y2FhMTgzXkEyXkFqcGdeQXVyMjEyNDA2OTg@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary", "Drama", "Family"],
+      "imdbid": "tt7253358",
+      "title": "Mrityubhoj: The Death Feast",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "tvMovie",
+      "synopsis": "Hindus celebrate 'Mrityubhoj', or the Death Feast, on the 13th day after a cremation as a remembrance for the departed soul, and also as a ritual to help the soul find heavenly abode. ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZTYyMjBkNzgtMjM3Ny00Y2JjLThlOTYtNmY2NzRiZjVkMjYyXkEyXkFqcGdeQXVyNTE3NzcwNTM@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9145106",
-        "title": "Cut-Copy-Paste, An Indian Startup Story",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Startups are the new magic wand. They will solve all our problems as IT did in 90s and 2000s or manufacturing was to solve in 70s and 80s or PSUs were to solve in 50s and 60s. It's already ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZTYyMjBkNzgtMjM3Ny00Y2JjLThlOTYtNmY2NzRiZjVkMjYyXkEyXkFqcGdeQXVyNTE3NzcwNTM@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9145106",
+      "title": "Cut-Copy-Paste, An Indian Startup Story",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Startups are the new magic wand. They will solve all our problems as IT did in 90s and 2000s or manufacturing was to solve in 70s and 80s or PSUs were to solve in 50s and 60s. It's already ..."
     },
     {
-        "imdbid": "tt12775242",
-        "genre": [
-            "Documentary"
-        ],
-        "released": 2019,
-        "title": "Outcast",
-        "type": "movie",
-        "synopsis": "On July 2, 2009, Section 377 of the Indian Penal Code, a colonial law, which criminalizes the LGBT community on the basis of their sexual preferences, was decriminalized by the Delhi High ...",
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTI5YzkyOWUtNDBkMS00YjYzLWE1ZWEtZmJlNzI0NDcwZGFlXkEyXkFqcGdeQXVyNzc2NTk4MDA@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ]
+      "imdbid": "tt12775242",
+      "genre": ["Documentary"],
+      "released": 2019,
+      "title": "Outcast",
+      "type": "movie",
+      "synopsis": "On July 2, 2009, Section 377 of the Indian Penal Code, a colonial law, which criminalizes the LGBT community on the basis of their sexual preferences, was decriminalized by the Delhi High ...",
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTI5YzkyOWUtNDBkMS00YjYzLWE1ZWEtZmJlNzI0NDcwZGFlXkEyXkFqcGdeQXVyNzc2NTk4MDA@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ]
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Documentary",
-            "Music"
-        ],
-        "imdbid": "tt9818048",
-        "title": "Decoding Shankar",
-        "imdbrating": null,
-        "released": 2018,
-        "type": "movie",
-        "synopsis": "A celebration of the work of singer/composer Shankar Mahadevan with interviews from various Indian celebrities."
+      "imageurl": [],
+      "genre": ["Documentary", "Music"],
+      "imdbid": "tt9818048",
+      "title": "Decoding Shankar",
+      "imdbrating": null,
+      "released": 2018,
+      "type": "movie",
+      "synopsis": "A celebration of the work of singer/composer Shankar Mahadevan with interviews from various Indian celebrities."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTIyYTY0Y2YtMTJiNi00Nzg0LWE1YjEtNmQ2MjE2Zjg5NDA2XkEyXkFqcGdeQXVyMTAzNDgwOTU1._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9675996",
-        "title": "The Real Thing",
-        "imdbrating": 6.4,
-        "released": 2018,
-        "type": "movie",
-        "synopsis": "Las Vegas isn't the only city adorned with architectural replicas. Today, you can admire the London Bridge near Shanghai, visit St. Peter's Basilica in Côte d'Ivoire, or take selfies with ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTIyYTY0Y2YtMTJiNi00Nzg0LWE1YjEtNmQ2MjE2Zjg5NDA2XkEyXkFqcGdeQXVyMTAzNDgwOTU1._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9675996",
+      "title": "The Real Thing",
+      "imdbrating": 6.4,
+      "released": 2018,
+      "type": "movie",
+      "synopsis": "Las Vegas isn't the only city adorned with architectural replicas. Today, you can admire the London Bridge near Shanghai, visit St. Peter's Basilica in Côte d'Ivoire, or take selfies with ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNjhjYTQ5YzYtZmY0MS00YzU5LWE1MzMtNmQyNjNiMWI5NDI2XkEyXkFqcGdeQXVyMTM1NDUzNw@@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9649816",
-        "title": "Sisters of the Trees",
-        "imdbrating": null,
-        "released": 2018,
-        "type": "movie",
-        "synopsis": "In the deserts of Rajasthan, the birth of a girl is no longer a curse. The families that previously got rid of their daughters for not being able to pay dowry today celebrate their lives by..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjhjYTQ5YzYtZmY0MS00YzU5LWE1MzMtNmQyNjNiMWI5NDI2XkEyXkFqcGdeQXVyMTM1NDUzNw@@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9649816",
+      "title": "Sisters of the Trees",
+      "imdbrating": null,
+      "released": 2018,
+      "type": "movie",
+      "synopsis": "In the deserts of Rajasthan, the birth of a girl is no longer a curse. The families that previously got rid of their daughters for not being able to pay dowry today celebrate their lives by..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BY2E3ZjViZDAtMTViYS00M2EyLWE3NTgtOGNjNWYzMDIzOGY2XkEyXkFqcGdeQXVyOTYwNDQ3ODA@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9476830",
-        "title": "My Son: Mera Beta",
-        "imdbrating": null,
-        "released": 2018,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BY2E3ZjViZDAtMTViYS00M2EyLWE3NTgtOGNjNWYzMDIzOGY2XkEyXkFqcGdeQXVyOTYwNDQ3ODA@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9476830",
+      "title": "My Son: Mera Beta",
+      "imdbrating": null,
+      "released": 2018,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMjg0ZDgzZWYtNzQxNy00YmMyLWE1NzgtMmNmOGFlNmE2YWM1XkEyXkFqcGdeQXVyNjE4OTU2MzY@._V1_UY268_CR164,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9318514",
-        "title": "Reason",
-        "imdbrating": 9,
-        "released": 2018,
-        "type": "movie",
-        "synopsis": "A detailed chronicling of injustices in India told in eight parts."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMjg0ZDgzZWYtNzQxNy00YmMyLWE1NzgtMmNmOGFlNmE2YWM1XkEyXkFqcGdeQXVyNjE4OTU2MzY@._V1_UY268_CR164,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9318514",
+      "title": "Reason",
+      "imdbrating": 9,
+      "released": 2018,
+      "type": "movie",
+      "synopsis": "A detailed chronicling of injustices in India told in eight parts."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMzQ1NDA1NGYtZjY2Zi00Njg0LWI1ZDctODMwNzQ0MmM2MjYyXkEyXkFqcGdeQXVyMjYzMDY4MzU@._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Documentary"
-        ],
-        "imdbid": "tt9310360",
-        "title": "Fair Traders",
-        "imdbrating": 6.9,
-        "released": 2018,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMzQ1NDA1NGYtZjY2Zi00Njg0LWI1ZDctODMwNzQ0MmM2MjYyXkEyXkFqcGdeQXVyMjYzMDY4MzU@._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Documentary"],
+      "imdbid": "tt9310360",
+      "title": "Fair Traders",
+      "imdbrating": 6.9,
+      "released": 2018,
+      "type": "movie",
+      "synopsis": ""
     }
-]}
+  ]
+}

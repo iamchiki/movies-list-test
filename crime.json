@@ -1,771 +1,592 @@
 {
-    "page": 1,
-    "results": [[
+  "page": 1,
+  "results": [
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMDJiMDQyYTItZTA0NC00NmVlLTg3NGItMjQwOWI2ZjY0MmE5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt9877170",
-        "title": "Malang",
-        "imdbrating": 6.5,
-        "released": 2020,
-        "synopsis": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMDJiMDQyYTItZTA0NC00NmVlLTg3NGItMjQwOWI2ZjY0MmE5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt9877170",
+      "title": "Malang",
+      "imdbrating": 6.5,
+      "released": 2020,
+      "synopsis": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYjgyNmM5MDItNjczOC00YjlmLTlmOGQtOTYwOTA1Njk0MDY2XkEyXkFqcGdeQXVyMzI0NjI4Njk@._V1_UY268_CR10,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Romance"
-        ],
-        "imdbid": "tt8226508",
-        "title": "Kottayam",
-        "imdbrating": 7.4,
-        "released": 2020,
-        "synopsis": "A police officer is found raped and murdered but political machinations force the investigating team to act in a manner which denies justice to the family. The search for the culprits takes the team to the borderlands of India and China.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjgyNmM5MDItNjczOC00YjlmLTlmOGQtOTYwOTA1Njk0MDY2XkEyXkFqcGdeQXVyMzI0NjI4Njk@._V1_UY268_CR10,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Romance"],
+      "imdbid": "tt8226508",
+      "title": "Kottayam",
+      "imdbrating": 7.4,
+      "released": 2020,
+      "synopsis": "A police officer is found raped and murdered but political machinations force the investigating team to act in a manner which denies justice to the family. The search for the culprits takes the team to the borderlands of India and China.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMDhjNDRhODMtNmMwMS00ODc4LWE1YmItMTBmYjhiZWZjMjk2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy",
-            "Crime"
-        ],
-        "imdbid": "tt7212754",
-        "title": "Ludo",
-        "imdbrating": 7.6,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "A dark comedy anthology, which was supposed to be center on unavoidable jeopardize of life and has four different stories set in a quintessential Indian metro."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMDhjNDRhODMtNmMwMS00ODc4LWE1YmItMTBmYjhiZWZjMjk2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt7212754",
+      "title": "Ludo",
+      "imdbrating": 7.6,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A dark comedy anthology, which was supposed to be center on unavoidable jeopardize of life and has four different stories set in a quintessential Indian metro."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZDIxZDEwODEtZjU1OS00YWZkLThlZjctZTAyMzY4MTNkMGI1XkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR147,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime"
-        ],
-        "imdbid": "tt5742882",
-        "title": "Rai",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "The story of a Muthappa Rai, a wealthy Indian business man accused of running an underground criminal enterprise.."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZDIxZDEwODEtZjU1OS00YWZkLThlZjctZTAyMzY4MTNkMGI1XkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR147,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime"],
+      "imdbid": "tt5742882",
+      "title": "Rai",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "The story of a Muthappa Rai, a wealthy Indian business man accused of running an underground criminal enterprise.."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYzVmNjczNjUtYWVlYi00YTU3LTkxNzctOWIzMzI3Yzc5ZWJlXkEyXkFqcGdeQXVyMjYxNDc2Njg@._V1_UY268_CR104,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "imdbid": "tt5621712",
-        "title": "Redemption",
-        "imdbrating": 6,
-        "released": 2020,
-        "synopsis": "In quest of freedom a young and petite girl, Zoya runs away from her over-protective and domineering father and then has to overcome an insane family of abductors, liars and rapists.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzVmNjczNjUtYWVlYi00YTU3LTkxNzctOWIzMzI3Yzc5ZWJlXkEyXkFqcGdeQXVyMjYxNDc2Njg@._V1_UY268_CR104,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imdbid": "tt5621712",
+      "title": "Redemption",
+      "imdbrating": 6,
+      "released": 2020,
+      "synopsis": "In quest of freedom a young and petite girl, Zoya runs away from her over-protective and domineering father and then has to overcome an insane family of abductors, liars and rapists.",
+      "type": "movie"
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Crime"
-        ],
-        "imdbid": "tt12159268",
-        "title": "Love in A Taxi",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Three entirely different cab rides in different locations in Mumbai are shown unfolding simultaneously. Each ride is fraught with high drama In one, a promiscuous man manages to book a cab ..."
+      "imageurl": [],
+      "genre": ["Crime"],
+      "imdbid": "tt12159268",
+      "title": "Love in A Taxi",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Three entirely different cab rides in different locations in Mumbai are shown unfolding simultaneously. Each ride is fraught with high drama In one, a promiscuous man manages to book a cab ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNDE1YWMyZGUtZDhkYS00NDA1LWIzZDgtYjdjNGJkZjE1ZTVmXkEyXkFqcGdeQXVyMTA5NDk1NTg0._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "imdbid": "tt11941392",
-        "title": "The Other Room",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Dr. Akshat, a renowned psychiatrist embarks on a journey of finding secrets from the past and present life of delusional patient and piano teacher, Rishi Sharma, in turn paying the greatest price of his life."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNDE1YWMyZGUtZDhkYS00NDA1LWIzZDgtYjdjNGJkZjE1ZTVmXkEyXkFqcGdeQXVyMTA5NDk1NTg0._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imdbid": "tt11941392",
+      "title": "The Other Room",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Dr. Akshat, a renowned psychiatrist embarks on a journey of finding secrets from the past and present life of delusional patient and piano teacher, Rishi Sharma, in turn paying the greatest price of his life."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZWQxYjhhMWYtMmRiZi00NTcyLTk4N2EtMDhhYTYzYWQyMzZkXkEyXkFqcGdeQXVyMTEwMTI5NzQ2._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt11331320",
-        "title": "Run Zindagi Run",
-        "imdbrating": 7.5,
-        "released": 2020,
-        "synopsis": "Four couples of different region living life to fullest and suddenly some people enters in everyone's life which totally change the scenario of their life in such a way that despite from ...",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZWQxYjhhMWYtMmRiZi00NTcyLTk4N2EtMDhhYTYzYWQyMzZkXkEyXkFqcGdeQXVyMTEwMTI5NzQ2._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11331320",
+      "title": "Run Zindagi Run",
+      "imdbrating": 7.5,
+      "released": 2020,
+      "synopsis": "Four couples of different region living life to fullest and suddenly some people enters in everyone's life which totally change the scenario of their life in such a way that despite from ...",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYzFkMTJiNWMtNzE0Ny00NzMyLWExZGMtYTUxYmE4ZGFkNDczXkEyXkFqcGdeQXVyODE2NDgwMDA@._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Comedy",
-            "Crime",
-            "Romance"
-        ],
-        "imdbid": "tt11204286",
-        "title": "Vellapanti",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Vellapanti story revolves around four childhood friends who struggle to fulfill their ambitions but each time find themselves in a soup."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzFkMTJiNWMtNzE0Ny00NzMyLWExZGMtYTUxYmE4ZGFkNDczXkEyXkFqcGdeQXVyODE2NDgwMDA@._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Comedy", "Crime", "Romance"],
+      "imdbid": "tt11204286",
+      "title": "Vellapanti",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Vellapanti story revolves around four childhood friends who struggle to fulfill their ambitions but each time find themselves in a soup."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Comedy",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt10916102",
-        "title": "Bahut Hua Sammaan",
-        "imdbrating": 7.3,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "With their planned heist gone wrong, Bony and Fundoo get inextricably involved in the pursuit of 'Kohinoor' - quite possibly the biggest scandal the country will ever witness."
+      "imageurl": [],
+      "genre": ["Comedy", "Crime", "Drama"],
+      "imdbid": "tt10916102",
+      "title": "Bahut Hua Sammaan",
+      "imdbrating": 7.3,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "With their planned heist gone wrong, Bony and Fundoo get inextricably involved in the pursuit of 'Kohinoor' - quite possibly the biggest scandal the country will ever witness."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNGQyYjYxYzctOTFlZS00YzJiLTg3ODktMzVmNzRhMzhmNWNlXkEyXkFqcGdeQXVyMzk5ODUyMzE@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt10608770",
-        "title": "Wanton",
-        "imdbrating": 4.5,
-        "released": 2020,
-        "synopsis": "On a fateful night, the lives of three friends descend into chaos after one of them commits a gruesome crime in a nightclub.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNGQyYjYxYzctOTFlZS00YzJiLTg3ODktMzVmNzRhMzhmNWNlXkEyXkFqcGdeQXVyMzk5ODUyMzE@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Thriller"],
+      "imdbid": "tt10608770",
+      "title": "Wanton",
+      "imdbrating": 4.5,
+      "released": 2020,
+      "synopsis": "On a fateful night, the lives of three friends descend into chaos after one of them commits a gruesome crime in a nightclub.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYzNmYTNhZDQtMzFiZS00OWZmLWJkYTAtNDMzZDZmMmFlZDY3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Comedy",
-            "Crime"
-        ],
-        "imdbid": "tt10515526",
-        "title": "Lootcase",
-        "imdbrating": 7.6,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Lootcase is a Hindi movie starring Kunal Kemmu, Rasika Duggal, Gajraj Rao, Ranvir Shorey and Vijay Raaz. in prominent roles. It is a drama directed by Rajesh Krishnan."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzNmYTNhZDQtMzFiZS00OWZmLWJkYTAtNDMzZDZmMmFlZDY3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Comedy", "Crime"],
+      "imdbid": "tt10515526",
+      "title": "Lootcase",
+      "imdbrating": 7.6,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Lootcase is a Hindi movie starring Kunal Kemmu, Rasika Duggal, Gajraj Rao, Ranvir Shorey and Vijay Raaz. in prominent roles. It is a drama directed by Rajesh Krishnan."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYzJkMjhkZDgtMjM4Yy00OWJiLWFlZmMtMjk5YTVlNDg5NDJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "imdbid": "tt10230426",
-        "title": "Mrs. Serial Killer",
-        "imdbrating": 4.8,
-        "released": 2020,
-        "synopsis": "When a doctor gets jailed for a string of shocking murders, his loyal wife sets out to commit a copycat crime to prove his innocence.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzJkMjhkZDgtMjM4Yy00OWJiLWFlZmMtMjk5YTVlNDg5NDJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imdbid": "tt10230426",
+      "title": "Mrs. Serial Killer",
+      "imdbrating": 4.8,
+      "released": 2020,
+      "synopsis": "When a doctor gets jailed for a string of shocking murders, his loyal wife sets out to commit a copycat crime to prove his innocence.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BY2VkNTc2NGQtYmNiNi00ZjcwLTk1YzktZjk2YmY3YzNkNzE4XkEyXkFqcGdeQXVyNjQyNTA2NDA@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt6373362",
-        "title": "Nasha",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "tvMovie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BY2VkNTc2NGQtYmNiNi00ZjcwLTk1YzktZjk2YmY3YzNkNzE4XkEyXkFqcGdeQXVyNjQyNTA2NDA@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt6373362",
+      "title": "Nasha",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "tvMovie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BN2FkYjJjYjktYzcxOC00ZTFmLTgyNGYtMDhkYWI1MzdiZTZlXkEyXkFqcGdeQXVyODY5MDc4OTg@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime"
-        ],
-        "imdbid": "tt11816582",
-        "title": "Matsar",
-        "imdbrating": 9.2,
-        "released": 2020,
-        "type": "tvMovie",
-        "synopsis": "Matsar is a story of friendship turning toxic when one friend cheats the other over an ATM robbery."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BN2FkYjJjYjktYzcxOC00ZTFmLTgyNGYtMDhkYWI1MzdiZTZlXkEyXkFqcGdeQXVyODY5MDc4OTg@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime"],
+      "imdbid": "tt11816582",
+      "title": "Matsar",
+      "imdbrating": 9.2,
+      "released": 2020,
+      "type": "tvMovie",
+      "synopsis": "Matsar is a story of friendship turning toxic when one friend cheats the other over an ATM robbery."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BODlkZjY4MjYtOGJiYy00N2ExLWE4NTktOGQwYTFlZDUwYjc1XkEyXkFqcGdeQXVyMTA4MjkwMzQ5._V1_UY268_CR17,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Mystery"
-        ],
-        "imdbid": "tt11061838",
-        "title": "Manohar's Cabin",
-        "imdbrating": null,
-        "released": 2020,
-        "type": "tvMovie",
-        "synopsis": "A crooked peddler is invited to a mafia gathering. Certain differences lead to chaos causing frenzy. As the night unfolds, every member seems to be unstable. They soon realize they may be part of a cult ritual."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BODlkZjY4MjYtOGJiYy00N2ExLWE4NTktOGQwYTFlZDUwYjc1XkEyXkFqcGdeQXVyMTA4MjkwMzQ5._V1_UY268_CR17,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Mystery"],
+      "imdbid": "tt11061838",
+      "title": "Manohar's Cabin",
+      "imdbrating": null,
+      "released": 2020,
+      "type": "tvMovie",
+      "synopsis": "A crooked peddler is invited to a mafia gathering. Certain differences lead to chaos causing frenzy. As the night unfolds, every member seems to be unstable. They soon realize they may be part of a cult ritual."
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Adult",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt12390286",
-        "title": "David Mental Hai Kya?",
-        "released": 2020,
-        "type": "tvMovie",
-        "synopsis": "",
-        "imdbrating": 9
+      "imageurl": [],
+      "genre": ["Adult", "Crime", "Thriller"],
+      "imdbid": "tt12390286",
+      "title": "David Mental Hai Kya?",
+      "released": 2020,
+      "type": "tvMovie",
+      "synopsis": "",
+      "imdbrating": 9
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
-        "imdbid": "tt9875128",
-        "title": "Halahal",
-        "imdbrating": 7.1,
-        "released": 2020,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Crime", "Drama", "Mystery"],
+      "imdbid": "tt9875128",
+      "title": "Halahal",
+      "imdbrating": 7.1,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
-        "imdbid": "tt12567088",
-        "title": "Raat Akeli Hai",
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "",
-        "imdbrating": 7.3
+      "imageurl": [],
+      "genre": ["Crime", "Drama", "Mystery"],
+      "imdbid": "tt12567088",
+      "title": "Raat Akeli Hai",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "",
+      "imdbrating": 7.3
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BM2E4NzlhZjUtYTNlMy00MjljLWEzNDktZDIwZjM0YzRkYmNkXkEyXkFqcGdeQXVyMTIwMzc4MDQx._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt3698454",
-        "title": "Yaara",
-        "released": 2020,
-        "type": "movie",
-        "synopsis": "Story of 'Chaukdi Gang' and the two men who helped build this gang played by Vidyut Jammwal and Amit Sadh. This gang of four which includes Vijay Varma, is nabbed by the police and serve ...",
-        "imdbrating": 6.4
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BM2E4NzlhZjUtYTNlMy00MjljLWEzNDktZDIwZjM0YzRkYmNkXkEyXkFqcGdeQXVyMTIwMzc4MDQx._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt3698454",
+      "title": "Yaara",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Story of 'Chaukdi Gang' and the two men who helped build this gang played by Vidyut Jammwal and Amit Sadh. This gang of four which includes Vijay Varma, is nabbed by the police and serve ...",
+      "imdbrating": 6.4
     },
     {
-        "imageurl": [],
-        "genre": [
-            "Crime"
-        ],
-        "imdbid": "tt12644338",
-        "title": "Khilauna",
-        "released": 2020,
-        "type": "tvMovie",
-        "synopsis": ""
+      "imageurl": [],
+      "genre": ["Crime"],
+      "imdbid": "tt12644338",
+      "title": "Khilauna",
+      "released": 2020,
+      "type": "tvMovie",
+      "synopsis": ""
     },
     {
-        "imdbid": "tt10178386",
-        "genre": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
-        "released": 2020,
-        "title": "No Man's Truth",
-        "type": "movie",
-        "imdbrating": 6.6,
-        "synopsis": "The peace of a middle-class family is shattered by the suicide of the elder daughter just a month after she is admitted to college. Coral, her younger sister, replaces her in the college to find out the circumstances her sister's death.",
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BN2MxYjU3NWEtMTlhMi00YjJlLWFhNDctMDBjZDg3ZGMwMzMwXkEyXkFqcGdeQXVyMzU3MTMzNjk@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ]
+      "imdbid": "tt10178386",
+      "genre": ["Crime", "Drama", "Mystery"],
+      "released": 2020,
+      "title": "No Man's Truth",
+      "type": "movie",
+      "imdbrating": 6.6,
+      "synopsis": "The peace of a middle-class family is shattered by the suicide of the elder daughter just a month after she is admitted to college. Coral, her younger sister, replaces her in the college to find out the circumstances her sister's death.",
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BN2MxYjU3NWEtMTlhMi00YjJlLWFhNDctMDBjZDg3ZGMwMzMwXkEyXkFqcGdeQXVyMzU3MTMzNjk@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ]
     },
     {
-        "imdbid": "tt12782066",
-        "genre": [
-            "Crime",
-            "Drama",
-            "Romance"
-        ],
-        "released": 2020,
-        "title": "Tallukh",
-        "type": "movie",
-        "synopsis": "An Inspector tries to figure out a case of serial kidnapping in neighborhood simultaneously a couple live their happy life, soon to realize everything is connected.",
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOWQ5N2FhMzgtNjU3Ni00NDgwLTgwNWMtMTZmODYxM2JhNzFmXkEyXkFqcGdeQXVyMTA3NDQ0MDk0._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "imdbrating": 5.8
+      "imdbid": "tt12782066",
+      "genre": ["Crime", "Drama", "Romance"],
+      "released": 2020,
+      "title": "Tallukh",
+      "type": "movie",
+      "synopsis": "An Inspector tries to figure out a case of serial kidnapping in neighborhood simultaneously a couple live their happy life, soon to realize everything is connected.",
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOWQ5N2FhMzgtNjU3Ni00NDgwLTgwNWMtMTZmODYxM2JhNzFmXkEyXkFqcGdeQXVyMTA3NDQ0MDk0._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "imdbrating": 5.8
     },
     {
-        "imdbid": "tt10230422",
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "released": 2020,
-        "title": "Class of '83",
-        "type": "movie",
-        "imdbrating": 5.8,
-        "synopsis": "The story of an upright policeman-turned-trainer whose wards deal with various complexities.",
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNjU2MzAyZWEtYjMxOS00ZGExLWIxZjgtNjY2ZWJmZWQzNWM4XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR1,0,182,268_AL_.jpg"
-        ]
+      "imdbid": "tt10230422",
+      "genre": ["Action", "Crime", "Drama"],
+      "released": 2020,
+      "title": "Class of '83",
+      "type": "movie",
+      "imdbrating": 5.8,
+      "synopsis": "The story of an upright policeman-turned-trainer whose wards deal with various complexities.",
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjU2MzAyZWEtYjMxOS00ZGExLWIxZjgtNjY2ZWJmZWQzNWM4XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR1,0,182,268_AL_.jpg"
+      ]
     },
     {
-        "imdbid": "tt12929738",
-        "genre": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "released": 2020,
-        "title": "London Confidental",
-        "type": "movie",
-        "synopsis": "RAW's London Station have worked to get incriminating evidence against the Chinese Communist Party's involvement with the spread of the virus and are close to getting the final piece of ...",
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNzdhM2U4YjMtZTExOS00ODcxLThmNDctODlmNGEyNjA1OTE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg"
-        ],
-        "imdbrating": 6.3
+      "imdbid": "tt12929738",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "released": 2020,
+      "title": "London Confidental",
+      "type": "movie",
+      "synopsis": "RAW's London Station have worked to get incriminating evidence against the Chinese Communist Party's involvement with the spread of the virus and are close to getting the final piece of ...",
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNzdhM2U4YjMtZTExOS00ODcxLThmNDctODlmNGEyNjA1OTE3XkEyXkFqcGdeQXVyMTIzMzg0MTM2._V1_UY268_CR43,0,182,268_AL_.jpg"
+      ],
+      "imdbrating": 6.3
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTU3YTQxMmUtMzAzMi00ZTU5LWEyZTEtNzY2MWFhYWM3YzFkXkEyXkFqcGdeQXVyMTE4Nzc1Mjkw._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Biography",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt8520380",
-        "title": "Dhuusar",
-        "imdbrating": 8.9,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Dhuusar chronicles three distinct phases of Shiladitya's life as he finds himself in the whirlwind of unfavourable situations and his obsession to escape from them. A mother, a jailer, a ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTU3YTQxMmUtMzAzMi00ZTU5LWEyZTEtNzY2MWFhYWM3YzFkXkEyXkFqcGdeQXVyMTE4Nzc1Mjkw._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Biography", "Crime", "Drama"],
+      "imdbid": "tt8520380",
+      "title": "Dhuusar",
+      "imdbrating": 8.9,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Dhuusar chronicles three distinct phases of Shiladitya's life as he finds himself in the whirlwind of unfavourable situations and his obsession to escape from them. A mother, a jailer, a ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYjI3OWUxOTYtYjBhNi00Y2VjLThiYjctZGQ3ODQ3OGExNzkwXkEyXkFqcGdeQXVyOTYyOTMzNjY@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime"
-        ],
-        "imdbid": "tt12153518",
-        "title": "Strawberry Blues",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "A retired gangster returns to his old job unwilling to find money to treat his ill wife. He has to eliminate a secret cult group as the vengeance of a movie actress. the journey of revenge ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjI3OWUxOTYtYjBhNi00Y2VjLThiYjctZGQ3ODQ3OGExNzkwXkEyXkFqcGdeQXVyOTYyOTMzNjY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime"],
+      "imdbid": "tt12153518",
+      "title": "Strawberry Blues",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "A retired gangster returns to his old job unwilling to find money to treat his ill wife. He has to eliminate a secret cult group as the vengeance of a movie actress. the journey of revenge ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNWY5ZmZjYTctODEyZi00OTllLWEzZjgtYjIwZmY3ZTA5ZTVmXkEyXkFqcGdeQXVyOTYyOTMzNjY@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt12153332",
-        "title": "A Rape Song",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "A 24 year old singer is accused of raping an upper caste woman and a set of angry mob wants him to get the maximum punishment. An Inspector and a Constable who handles the case plot to make..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNWY5ZmZjYTctODEyZi00OTllLWEzZjgtYjIwZmY3ZTA5ZTVmXkEyXkFqcGdeQXVyOTYyOTMzNjY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama"],
+      "imdbid": "tt12153332",
+      "title": "A Rape Song",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "A 24 year old singer is accused of raping an upper caste woman and a set of angry mob wants him to get the maximum punishment. An Inspector and a Constable who handles the case plot to make..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOWFiMGZiOWQtZGE5NC00NWMzLWJjZTAtMTc3NjdjZjdkZDlhXkEyXkFqcGdeQXVyMTk0Mzk1Mjk@._V1_UY268_CR12,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime"
-        ],
-        "imdbid": "tt9560092",
-        "title": "Time To Retaliate: MASOOM",
-        "imdbrating": 5.7,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Masoom is a story of Zoya \"Alia Khan Dar\" who took took crusade against child abusers. The movie is inspired from true incidents."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOWFiMGZiOWQtZGE5NC00NWMzLWJjZTAtMTc3NjdjZjdkZDlhXkEyXkFqcGdeQXVyMTk0Mzk1Mjk@._V1_UY268_CR12,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime"],
+      "imdbid": "tt9560092",
+      "title": "Time To Retaliate: MASOOM",
+      "imdbrating": 5.7,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Masoom is a story of Zoya \"Alia Khan Dar\" who took took crusade against child abusers. The movie is inspired from true incidents."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNzA0NGQ5MDQtNmU5My00MzdjLWIzZmQtMTA5M2NkOWUxYmQ1XkEyXkFqcGdeQXVyNTIyMzY3MzE@._V1_UY268_CR123,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Fantasy"
-        ],
-        "imdbid": "tt9136010",
-        "title": "Popcity",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "A coming of age story of a hitman in Mumbai."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNzA0NGQ5MDQtNmU5My00MzdjLWIzZmQtMTA5M2NkOWUxYmQ1XkEyXkFqcGdeQXVyNTIyMzY3MzE@._V1_UY268_CR123,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Fantasy"],
+      "imdbid": "tt9136010",
+      "title": "Popcity",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "A coming of age story of a hitman in Mumbai."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZmI4M2I1NWYtM2MwNS00NDJmLThhMmMtNDk1MzM4ZWQyMDZmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt8869978",
-        "title": "Batla House",
-        "imdbrating": 7.2,
-        "released": 2019,
-        "synopsis": "After a deadly encounter, a police officer struggles to catch the fugitives and prove the police acted lawfully, while being despised by the whole nation.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZmI4M2I1NWYtM2MwNS00NDJmLThhMmMtNDk1MzM4ZWQyMDZmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt8869978",
+      "title": "Batla House",
+      "imdbrating": 7.2,
+      "released": 2019,
+      "synopsis": "After a deadly encounter, a police officer struggles to catch the fugitives and prove the police acted lawfully, while being despised by the whole nation.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMTQwNDBlODYtNGIyYS00ZmMwLTk5NDUtNDEwNmFiZjY0ZDUxXkEyXkFqcGdeQXVyODg4OTQ4NDM@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
-        "imdbid": "tt8144834",
-        "title": "Section 375",
-        "imdbrating": 8.1,
-        "released": 2019,
-        "synopsis": "A celebrated Bollywood director Rohan Khurana stands accused by a female member of his crew, Anjali Dangle of having raped her at his residence.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMTQwNDBlODYtNGIyYS00ZmMwLTk5NDUtNDEwNmFiZjY0ZDUxXkEyXkFqcGdeQXVyODg4OTQ4NDM@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Mystery"],
+      "imdbid": "tt8144834",
+      "title": "Section 375",
+      "imdbrating": 8.1,
+      "released": 2019,
+      "synopsis": "A celebrated Bollywood director Rohan Khurana stands accused by a female member of his crew, Anjali Dangle of having raped her at his residence.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYjZiMzIzYTctNDViZi00OWNmLWFmN2YtMmI2OWJiZWViMmY3XkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
-        "imdbid": "tt8130968",
-        "title": "Badla",
-        "imdbrating": 7.8,
-        "released": 2019,
-        "synopsis": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYjZiMzIzYTctNDViZi00OWNmLWFmN2YtMmI2OWJiZWViMmY3XkEyXkFqcGdeQXVyNTYwMzA0MTM@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Mystery"],
+      "imdbid": "tt8130968",
+      "title": "Badla",
+      "imdbrating": 7.8,
+      "released": 2019,
+      "synopsis": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNTc4YjBiY2YtMzNlZC00ZjBkLWJlMWItMzEyOTdhNWVhMzkyXkEyXkFqcGdeQXVyMzQwOTA2MTY@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt8130558",
-        "title": "One Day: Justice Delivered",
-        "imdbrating": 5,
-        "released": 2019,
-        "synopsis": "A Crime Branch Special Officer Investigates the Serial disappearance of high profile individuals in a state capital.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNTc4YjBiY2YtMzNlZC00ZjBkLWJlMWItMzEyOTdhNWVhMzkyXkEyXkFqcGdeQXVyMzQwOTA2MTY@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt8130558",
+      "title": "One Day: Justice Delivered",
+      "imdbrating": 5,
+      "released": 2019,
+      "synopsis": "A Crime Branch Special Officer Investigates the Serial disappearance of high profile individuals in a state capital.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNjkyYmYzZGEtYzkwZS00ODk0LThhYmItODg1ZThjYzFkNTZiXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR1,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt8108208",
-        "title": "Why Cheat India",
-        "imdbrating": 6.1,
-        "released": 2019,
-        "synopsis": "The movie focuses on existing malpractices in country's education system, the whole concept of buying your way through education, jobs and earnings. Even with an evolving education system, ...",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjkyYmYzZGEtYzkwZS00ODk0LThhYmItODg1ZThjYzFkNTZiXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR1,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama"],
+      "imdbid": "tt8108208",
+      "title": "Why Cheat India",
+      "imdbrating": 6.1,
+      "released": 2019,
+      "synopsis": "The movie focuses on existing malpractices in country's education system, the whole concept of buying your way through education, jobs and earnings. Even with an evolving education system, ...",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BY2YyZmI2NGQtNzNjOS00MTY1LTkxNWEtNzg0YWYzOGZiMzcyXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt8108200",
-        "title": "Sonchiriya",
-        "imdbrating": 8.1,
-        "released": 2019,
-        "synopsis": "Set in the Chambal valley, the film follows the story of a legion of dreaded, warring dacoits who once terrorized the Indian heartlands.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BY2YyZmI2NGQtNzNjOS00MTY1LTkxNWEtNzg0YWYzOGZiMzcyXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt8108200",
+      "title": "Sonchiriya",
+      "imdbrating": 8.1,
+      "released": 2019,
+      "synopsis": "Set in the Chambal valley, the film follows the story of a legion of dreaded, warring dacoits who once terrorized the Indian heartlands.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYzRhYTI3NDctYmRhOS00ZmE4LTlkNjQtNWU5YjI1ZTVjNDc0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Horror"
-        ],
-        "imdbid": "tt8016662",
-        "title": "Praana",
-        "imdbrating": 8.2,
-        "released": 2019,
-        "synopsis": "A young woman decides to live a life of solitary in an old mansion away from the city's hustle bustle. Little does she know that the nature surrounding her has other plans for her.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYzRhYTI3NDctYmRhOS00ZmE4LTlkNjQtNWU5YjI1ZTVjNDc0XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Horror"],
+      "imdbid": "tt8016662",
+      "title": "Praana",
+      "imdbrating": 8.2,
+      "released": 2019,
+      "synopsis": "A young woman decides to live a life of solitary in an old mansion away from the city's hustle bustle. Little does she know that the nature surrounding her has other plans for her.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BODIyMGE2OWMtMjJlNC00MzFlLTk2ZGMtOTg1YmYxYjY2OWEwXkEyXkFqcGdeQXVyNzg1OTM4NDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt7884788",
-        "title": "Love in a Taxi",
-        "imdbrating": null,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": ""
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BODIyMGE2OWMtMjJlNC00MzFlLTk2ZGMtOTg1YmYxYjY2OWEwXkEyXkFqcGdeQXVyNzg1OTM4NDE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Thriller"],
+      "imdbid": "tt7884788",
+      "title": "Love in a Taxi",
+      "imdbrating": null,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": ""
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZDJkYzdmNWMtNWQ4OS00ODgyLTkxYjgtOWFkYzQ0MmZiNjdjXkEyXkFqcGdeQXVyNzExMzY1Mw@@._V1_UY268_CR19,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "imdbid": "tt7745016",
-        "title": "#MeToo",
-        "imdbrating": 4.5,
-        "released": 2019,
-        "synopsis": "Recently out on bail and on his way to a hideout, Richie coerces his elder brother, Yash and Mama (Mother's brother) to kidnap a girl. Sakshi, on her way to college, is snatched from a bus ...",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZDJkYzdmNWMtNWQ4OS00ODgyLTkxYjgtOWFkYzQ0MmZiNjdjXkEyXkFqcGdeQXVyNzExMzY1Mw@@._V1_UY268_CR19,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imdbid": "tt7745016",
+      "title": "#MeToo",
+      "imdbrating": 4.5,
+      "released": 2019,
+      "synopsis": "Recently out on bail and on his way to a hideout, Richie coerces his elder brother, Yash and Mama (Mother's brother) to kidnap a girl. Sakshi, on her way to college, is snatched from a bus ...",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYTM0YjgzODYtZWRlMC00M2IzLTgxMjYtZWU4MmU5YzdkYjQ3XkEyXkFqcGdeQXVyODY3MTczOTQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Mystery",
-            "Thriller"
-        ],
-        "imdbid": "tt7639446",
-        "title": "The Pickup Artist",
-        "imdbrating": 6.1,
-        "released": 2019,
-        "synopsis": "The Curious Case of Missing Girls Investigated by a Maniac Cop.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYTM0YjgzODYtZWRlMC00M2IzLTgxMjYtZWU4MmU5YzdkYjQ3XkEyXkFqcGdeQXVyODY3MTczOTQ@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Mystery", "Thriller"],
+      "imdbid": "tt7639446",
+      "title": "The Pickup Artist",
+      "imdbrating": 6.1,
+      "released": 2019,
+      "synopsis": "The Curious Case of Missing Girls Investigated by a Maniac Cop.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNjA0ZWExZDEtY2MzNi00NDE2LThlZDUtZDAxNmMxM2MyNTBjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
-        "imdbid": "tt7624840",
-        "title": "Paharganj",
-        "imdbrating": 4.4,
-        "released": 2019,
-        "synopsis": "Coming from the streets of Paharganj, the movie depicts a woman's search for her lost love, a man's attempt to regain his lost enigma and dealing with his brother's untimely death, an unexpected political murder, and raging gang war.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjA0ZWExZDEtY2MzNi00NDE2LThlZDUtZDAxNmMxM2MyNTBjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama", "Mystery"],
+      "imdbid": "tt7624840",
+      "title": "Paharganj",
+      "imdbrating": 4.4,
+      "released": 2019,
+      "synopsis": "Coming from the streets of Paharganj, the movie depicts a woman's search for her lost love, a man's attempt to regain his lost enigma and dealing with his brother's untimely death, an unexpected political murder, and raging gang war.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BN2QxMDhhZTUtZmRiMy00ZWY0LWJlMzAtZTAxY2Y1MmVlYjgzXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR4,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt7228072",
-        "title": "Pranaam",
-        "imdbrating": 4.4,
-        "released": 2019,
-        "synopsis": "A peon's son who is an aspiring IAS officer is compelled to change his path leading him to turn into a gangster.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BN2QxMDhhZTUtZmRiMy00ZWY0LWJlMzAtZTAxY2Y1MmVlYjgzXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR4,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt7228072",
+      "title": "Pranaam",
+      "imdbrating": 4.4,
+      "released": 2019,
+      "synopsis": "A peon's son who is an aspiring IAS officer is compelled to change his path leading him to turn into a gangster.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BMGM4MDkxMTQtYWU0OS00ZThmLWJhODctYzAxZjhkNDlmYTlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Comedy",
-            "Crime"
-        ],
-        "imdbid": "tt7059844",
-        "title": "Dabangg 3",
-        "imdbrating": 3,
-        "released": 2019,
-        "synopsis": "Chulbul Pandey encounters an enemy from his past, and his origin story as the fearless cop unfolds.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BMGM4MDkxMTQtYWU0OS00ZThmLWJhODctYzAxZjhkNDlmYTlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR9,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt7059844",
+      "title": "Dabangg 3",
+      "imdbrating": 3,
+      "released": 2019,
+      "synopsis": "Chulbul Pandey encounters an enemy from his past, and his origin story as the fearless cop unfolds.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BYmNhZDBjOWUtZDAyMy00NzI2LWFmY2YtZmE0ODlmMDU3MWI4XkEyXkFqcGdeQXVyNjc2MzE2MDc@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt6672208",
-        "title": "Railway Raju",
-        "imdbrating": 7.8,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "Raju is the star wrestler of the Bhaiyaji gang and is pulled into the life of crime in the battle with the Suleman Qureshi gang. Maya is a girl living along the Ganges river and is ..."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BYmNhZDBjOWUtZDAyMy00NzI2LWFmY2YtZmE0ODlmMDU3MWI4XkEyXkFqcGdeQXVyNjc2MzE2MDc@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Thriller"],
+      "imdbid": "tt6672208",
+      "title": "Railway Raju",
+      "imdbrating": 7.8,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Raju is the star wrestler of the Bhaiyaji gang and is pulled into the life of crime in the battle with the Suleman Qureshi gang. Maya is a girl living along the Ganges river and is ..."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZDVhMDVhOTQtZWUwMi00ZDIyLWJiMzAtNTNhY2MwOWJiNmE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "imdbid": "tt6593054",
-        "title": "Drive",
-        "imdbrating": 3.6,
-        "released": 2019,
-        "synopsis": "A notorious thief allies with a street racer for a grand heist involving an elaborate game of deceit with authorities, who have their own dirty secrets.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZDVhMDVhOTQtZWUwMi00ZDIyLWJiMzAtNTNhY2MwOWJiNmE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt6593054",
+      "title": "Drive",
+      "imdbrating": 3.6,
+      "released": 2019,
+      "synopsis": "A notorious thief allies with a street racer for a grand heist involving an elaborate game of deceit with authorities, who have their own dirty secrets.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNjVmZmI2MDEtMjllNy00NDIwLWJiZGUtNjc3NmY3MTViZDMyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR3,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt6409416",
-        "title": "The Elder One",
-        "imdbrating": 7.5,
-        "released": 2019,
-        "synopsis": "A transgender child from Lakshadweep sets off to Mumbai in pursuit of Akbar, an elder brother who left the island due to his sexual orientation.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNjVmZmI2MDEtMjllNy00NDIwLWJiZGUtNjc3NmY3MTViZDMyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt6409416",
+      "title": "The Elder One",
+      "imdbrating": 7.5,
+      "released": 2019,
+      "synopsis": "A transgender child from Lakshadweep sets off to Mumbai in pursuit of Akbar, an elder brother who left the island due to his sexual orientation.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BNWZhYTc4M2ItNDc3NS00NjIxLWEzNWMtZWIyNDgzMmUwZWM3XkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_UY268_CR8,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt5668770",
-        "title": "Mardaani 2",
-        "imdbrating": 7.4,
-        "released": 2019,
-        "synopsis": "A 21-year old boy Sunny has a penchant for sexually assaulting and killing girls. He's locked horns with top cop Shivani Shivaji Roy. Will she nab him?",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BNWZhYTc4M2ItNDc3NS00NjIxLWEzNWMtZWIyNDgzMmUwZWM3XkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_UY268_CR8,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt5668770",
+      "title": "Mardaani 2",
+      "imdbrating": 7.4,
+      "released": 2019,
+      "synopsis": "A 21-year old boy Sunny has a penchant for sexually assaulting and killing girls. He's locked horns with top cop Shivani Shivaji Roy. Will she nab him?",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BOTJlNWM2ZjktMzAyOS00ZmIyLTk1NTUtZDJkMTEwMTRmZWUwXkEyXkFqcGdeQXVyNjcyNzc0NA@@._V1_UY268_CR13,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Action",
-            "Crime"
-        ],
-        "imdbid": "tt5133062",
-        "title": "The Brazilian Connection",
-        "imdbrating": 8.2,
-        "released": 2019,
-        "type": "movie",
-        "synopsis": "In the year 1991, the heir to a real estate empire is taken hostage by a group of kidnappers while on business in Brazil. The kidnappers turn out to be harboring a mysterious device that could change the direction of humanity forever."
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BOTJlNWM2ZjktMzAyOS00ZmIyLTk1NTUtZDJkMTEwMTRmZWUwXkEyXkFqcGdeQXVyNjcyNzc0NA@@._V1_UY268_CR13,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Action", "Crime"],
+      "imdbid": "tt5133062",
+      "title": "The Brazilian Connection",
+      "imdbrating": 8.2,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "In the year 1991, the heir to a real estate empire is taken hostage by a group of kidnappers while on business in Brazil. The kidnappers turn out to be harboring a mysterious device that could change the direction of humanity forever."
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BZmY1YTJjMjEtM2IwOC00NzdkLWIzZGYtOGIyYjNlMThkYTQ2XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR2,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Comedy",
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt4971258",
-        "title": "Bombairiya",
-        "imdbrating": 4.6,
-        "released": 2019,
-        "synopsis": "It follows the story of Meghna, who gets embroiled in a series of events after her phone gets stolen.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BZmY1YTJjMjEtM2IwOC00NzdkLWIzZGYtOGIyYjNlMThkYTQ2XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Comedy", "Crime", "Drama"],
+      "imdbid": "tt4971258",
+      "title": "Bombairiya",
+      "imdbrating": 4.6,
+      "released": 2019,
+      "synopsis": "It follows the story of Meghna, who gets embroiled in a series of events after her phone gets stolen.",
+      "type": "movie"
     },
     {
-        "imageurl": [
-            "https://m.media-amazon.com/images/M/MV5BM2U4MGViYzYtNTBjNC00MjIyLWE0ZTEtZjc1Mjk4OGE2NGRhXkEyXkFqcGdeQXVyNDE3Njg0MDY@._V1_UX182_CR0,0,182,268_AL_.jpg"
-        ],
-        "genre": [
-            "Crime",
-            "Drama"
-        ],
-        "imdbid": "tt2257284",
-        "title": "Line of Descent",
-        "imdbrating": 4.7,
-        "released": 2019,
-        "synopsis": "Three brothers in a Delhi crime family fight over the future of their enterprise. Meanwhile, an undercover police officer attempts to end the family's legacy, and an arms dealer conspires with the brothers.",
-        "type": "movie"
+      "imageurl": [
+        "https://m.media-amazon.com/images/M/MV5BM2U4MGViYzYtNTBjNC00MjIyLWE0ZTEtZjc1Mjk4OGE2NGRhXkEyXkFqcGdeQXVyNDE3Njg0MDY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      ],
+      "genre": ["Crime", "Drama"],
+      "imdbid": "tt2257284",
+      "title": "Line of Descent",
+      "imdbrating": 4.7,
+      "released": 2019,
+      "synopsis": "Three brothers in a Delhi crime family fight over the future of their enterprise. Meanwhile, an undercover police officer attempts to end the family's legacy, and an arms dealer conspires with the brothers.",
+      "type": "movie"
     }
-]
+  ]
 }
